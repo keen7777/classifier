@@ -1,0 +1,1614 @@
+appId,title,description,genre,score,installs,developer,url,keyword
+in.realtechsolns.iso_9001,ISO-9001,App for understanding and implementing ISO-9001 quality management standard in organisations of all sizes. Useful for professionals working in the field of QA in any industry.,Tools,,"1,000+",Realtech Solutions,https://play.google.com/store/apps/details?id=in.realtechsolns.iso_9001&hl=en&gl=us,ISO 9001
+com.ISOAuditApp,Nifty ISO 9001,"Nifty ISO Audit Manager on the Play Store is designed for ISO Auditor. The app is helpful for internal audits as well as client company audits.
+
+
+https://www.niftysol.com/niftyiso-iso-audit-management-software/#pricing
+
+
+The app allows the auditor to:
+
+
+1. Manage Audit
+👉🏻 Auditors can create, update and archive audits at any time.
+👉🏻 Easy to create an Audit because only you are required to set YES or No in the questionnaire.
+👉🏻 You can Attachment as Image, Videos, and Voice recordings in the Questionnaire.
+👉🏻 You can add comments to the Questionnaire.
+👉🏻 Questionniry Tips that help give answers to questions.
+👉🏻 Add Note on Audit and set Auditor name in Audit.
+👉🏻 You can put your audits In Progress Type for future updates.
+👉🏻 Auditors can set audit types like Full Audit, Follow up Audit, Roll on Audit, and Cyclic Audit.
+👉🏻 Audits can be saved in multiple sessions and hence give the flexibility to complete audits without losing any data.
+👉🏻 Facility for creating ISO question sets and reusing it.
+👉🏻 ISO questions can be categorized as per the compliance or department.
+👉🏻 Audit can be done based on the Non-Conformance.
+👉🏻 Filter your audit list as per Template name, Location name, and Audit Status (Completed or In Progress).
+
+
+2. Template
+👉🏻 Auditors can add templates for the Owner or Client.
+👉🏻 Also can set your Own Company Logo and Client Company Logo.
+👉🏻 You can Update Delete and View templates at any time.
+
+
+3. Location
+👉🏻 Add a different location for your Audit.
+👉🏻 You can Update Delete and View the Location at any time.
+👉🏻 Facility for creating and reusing Templates for quick audits.
+
+
+4. Department
+👉🏻 Add different Departments for your Audit.
+👉🏻 You can Update Delete and View Department at any time.
+
+
+5. Archive Audit
+👉🏻 Auditors do Audits as an archive or soft delete your audit.
+👉🏻 Also you can generate a PDF of the Archive audit.
+👉🏻 Audits can delete Auditors permanently from the archive audit list.
+👉🏻 Filter your archive audit list as per the Template name and Location name.
+
+
+6. Generate a Report
+👉🏻 Generate report in PDF format and Email to potential stakeholders.
+👉🏻 Different reports supported – Non-Conformance only, Conformance only, Full report, Major Non-Conformance only, Minor Non-Conformance only.",Business,3.4,"10,000+",dasinfo,https://play.google.com/store/apps/details?id=com.ISOAuditApp&hl=en&gl=us,ISO 9001
+org.isotools.mrkt,Normas ISO,"In the ISO Standards App of ISOTools Excellence you will find information on ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, ISO/IEC 27001:2013, ISO 37001:2016, ISO 37301:2021.
+
+Learn about the structure of ISO standards, their details, information on methodologies, articles of interest, live events and much more information of interest.
+
+Do you want more information? Go to www.isotools.us to get to know us better.",Productivity,0.0,"10,000+",ESG Innova Group,https://play.google.com/store/apps/details?id=org.isotools.mrkt&hl=en&gl=us,ISO 9001
+com.tss.in.android.fitsTolerance,ISO Fits,"It includes the following features:
+
+- Fits calculation: Upon entering the nominal diameter (of either bore or shaft), users select their tolerance classes for bore and shaft. The app then provides the complete ISO fits definition with all relevant values.
+- Tolerances: Shows the tolerances for the most commonly used ISO tolerance classes.
+- switch between metric and inch version.
+- Charts: Shows the most common ISO tolerances classes in a diagram.
+- Videos: Features the automatically updated latest TSS youtube videos.
+
+The results of this application are based on DIN ISO 286
+
+Nominal dimension:
+1-3150mm
+
+following tolerances included:
+Shaft: a9, a10, a11, a12, a13, b8, b9, b10, b11, b12, b13, c8, c9, c10, c11, c12, cd5, cd6, cd7, cd8, cd9, cd10, d5, d6, d7, d8, d9, d10, d11, d12, d13, e5, e6, e7, e8, e9, e10, ef3, ef4, ef5, ef6, ef7, ef8, ef9, ef10, f3, f4, f5, f6, f7, f8, f9, f10, fg3, fg4, fg5, fg6, fg7, fg8, fg9, fg10, g3, g4, g5, g6, g7, g8, g9, g10, h1, h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14, h15, h16, h17, h18, js1, js2, js3, js4, js5, js6, js7, js8, js9, js10, js11, js12, js13, js14, js15, js16, js17, js18, j5, j6, j7, j8, k3, k4, k5, k6, k7, k8, k9, k10, k11, k12, k13, m3, m4, m5, m6, m7, m8, m9, n3, n4, n5, n6, n7, n8, n9, p3, p4, p5, p6, p7, p8, p9, p10, r3, r4, r5, r6, r7, r8, r9, r10, s3, s4, s5, s6, s7, s8, s9, s10, t5, t6, t7, t8, u5, u6, u7, u8, u9, v5, v6, v7, v8, x5, x6, x7, x8, x9, x10, y6, y7, y8, y9, y10, z6, z7, z8, z9, z10, z11, za6, za7, za8, za9, za10, za11, zb7, zb8, zb9, zb10, zb11, zc7, zc8, zc9, zc10, zc11
+
+Bore: A9, A10, A11, A12, A13, B8, B9, B10, B11, B12, B13, C8, C9, C10, C11, C12, C13, CD6, CD7, CD8, CD9, CD10, D6, D7, D8, D9, D10, D11, D12, D13, E5, E6, E7, E8, E9, E10, EF3, EF4, EF5, EF6, EF7, EF8, EF9, EF10, F3, F4, F5, F6, F7, F8, F9, F10, FG3, FG4, FG5, FG6, FG7, FG8, FG9, FG10, G3, G4, G5, G6, G7, G8, G9, G10, H1, H2, H3, H4, H5, H6, H7, H8, H9, H10, H11, H12, H13, H14, H15, H16, H17, H18, JS1, JS2, JS3, JS4, JS5, JS6, JS7, JS8, JS9, JS10, JS11, JS12, JS13, JS14, JS15, JS16, JS17, JS18, J6, J7, J8, J9, K3, K4, K5, K6, K7, K8, K9, K10, M3, M4, M5, M6, M7, M8, M9, M10, N3, N4, N5, N6, N7, N8, N9, N10, N11, P3, P4, P5, P6, P7, P8, P9, P10, R3, R4, R5, R6, R7, R8, R9, R10, S3, S4, S5, S6, S7, S8, S9, S10, T5, T6, T7, T8, U5, U6, U7, U8, U9, U10, V5, V6, V7, V8, X5, X6, X7, X8, X9, X10, Y6, Y7, Y8, Y9, Y10, Z6, Z7, Z8, Z9, Z10, Z11, ZA6, ZA7, ZA8, ZA9, ZA10, ZA11, ZB7, ZB8, ZB9, ZB10, ZB11, ZC7, ZC8, ZC9, ZC10, ZC11",Tools,4.3846154,"100,000+",Trelleborg Sealing Solutions,https://play.google.com/store/apps/details?id=com.tss.in.android.fitsTolerance&hl=en&gl=us,ISO 9001
+online.isoplus.app,ISO+™,"ISO+™ is an all-in-one and versatile software solution designed to streamline the documentation and implementation of various management systems and frameworks for compliance and certification purposes.
+
+KEY FEATURES:
+
+Mobile Accessibility: With ISO+™'s mobile app, you can efficiently organise and manage tasks, files, people, and other essential work data from anywhere. You can collaborate with your team in real-time and stay on top of your projects even while on the move.
+
+On-the-Go Updates: Stay productive anytime, anywhere. ISO+™'s mobile version allows you to add and update records instantly. 
+
+Versatile Data Organisation: ISO+™ empowers you to organise a wide range of data types. Whether you need to create new documents, set up a new meeting, create to-do lists, manage orders and clients, manage audits and assessments, or handle any other type of information, ISO+™ has you covered with a vast range of different attributes.
+
+Real-Time Collaboration: Any changes you make to your data from any device are instantly visible to your team members. Assign tasks and mention team members in comments to keep everyone informed.
+
+Customisable Views: Tailor your data viewing experience with ISO+™'s versatile customisation options. Visualise your data through a wide range of different graphs and charts. Filter your data, group items by labels, and sort them according to your preferences. 
+
+Experience the power of ISO+™ for efficient and effective management of your organisation's processes and compliance needs. You will experience a smooth certification and registration audit.",Productivity,,100+,ISO Consulting Services,https://play.google.com/store/apps/details?id=online.isoplus.app&hl=en&gl=us,ISO 9001
+com.az900simulator,AZ900 Simulator,"AZ900 Simulator is a fantastic app to prepare you for getting the Microsoft AZ 900 Fundamentals certification.
+
+Characteristics:
+- 600 questions with explanations.
+- Practice Mode: fast or normal.
+- Progress bar and ability to choose or not choose random questions.
+- Exam Mode, a real simulation of the official exam: 60 questions in 60 minutes.
+- Statistics and charts so you can see your progress.
+- Achievements unlockable as you progress in your training.
+- Good customization of settings to make it more user-friendly.
+- ... and much more!",Productivity,0.0,500+,José María Vázquez Vicaria,https://play.google.com/store/apps/details?id=com.az900simulator&hl=en&gl=us,ISO 9001
+com.isomt.app,ISOMT,"Education is not only the learning of facts but training the mind to think. In pursuit of improving lives through healthcare education and innovation, we at ISOMT bring together powerful education and innovative technology for therapists and clinicians.",Health & Fitness,,100+,"US- based Healthcare, Fitness & Wellness Courses",https://play.google.com/store/apps/details?id=com.isomt.app&hl=en&gl=us,ISO 9001
+com.trieudadlovestun.az900ver3,Az Fundamentals AZ-900 2025,"There are many questions on the web that are either outdated or wrongly answered. I am trying here to filter all those questions and provide you with a nice tool to practice the exam similar to the real-life exam as much as possible
+
+This small app was designed with love to help you 5 things:
+
+1.question content is updated monthly in 2025, so you don’t have to worry that these question is outdated anymore.
+
+2.With 2 EXACT-FILTERING features, you can focus easily on questions you are making mistakes or missing.
+
+3.Save difficult questions offline. So you can practice them later when you have free time.
+
+4.Examination mode will help you take test like a real exam. So you will be more confident.
+
+5.Nearly-100% questions are packed with straightforward explanations. You will know why it is correct or wrong. No more confusing.
+
+In sum, this app is simple and straight-to-the-point like description you are reading.
+
+Have fun and enjoy the app!",Education,3.7777777,"10,000+",Tun Tran,https://play.google.com/store/apps/details?id=com.trieudadlovestun.az900ver3&hl=en&gl=us,ISO 9001
+com.sima.az900,AZ-900 Practice Test 2025,"AZ-900 Practice Test 2025 is designed for individuals who are new to Azure or want to learn more about the platform to get Azure Cloud certification.
+
+Features:
+
+🆕 🧠 AI Mentora – Your Personal Learning Companion: Your intelligent guide that breaks down complex concepts into clear explanations. It expands your knowledge, and offers unlimited insights — like having a dedicated tutor by your side, 24/7.
+
+📋 Extensive Question Bank: Practice more than 650 questions from our AZ-900 dumps that are broken down into bite-sized sub-topics for effective learning and information retention.
+• Cloud Concepts (Cloud Computing; Benefits of Cloud Services; Cloud Service Types)
+• Azure Architecture and Services (Core Architectural Components; Compute & Networking Services; Storage Services; Identity, Access, & Security)
+• Azure Management and Governance (Cost Management; Governance & Compliance Tools; Resource Management & Deployment; Monitoring Tools)
+
+📝 Realistic Test Simulations: Experience the AZ-900 exam environment firsthand and get familiar with the actual exam format, timing, and difficulty level. 
+
+🔍 Detailed Explanations: Get in-depth explanations for each question to understand the reasoning behind the correct answers. Grasp the underlying concepts, reinforce your knowledge, and be well-prepared for any question that comes your way.
+
+🆕 📈 Performance Analytics, & Passing Possibility: Analyze your performance over time and monitor your strengths and weaknesses. Additionally, estimate the likelihood of passing the test based on your performance and provide targeted practice to help maximize your chances of passing.
+
+🌐 Offline Access: Access all the app's content and features even without an internet connection.
+
+🎯 Want to become a Microsoft Certified Azure Fundamentals professional and advance your cloud career? It’s time to be part of the 90% who have passed the real test after practicing. Download our app today! 💻
+
+If you have any questions, please feel free to contact us by email at support@easy-prep.org.
+
+Disclaimer: AZ-900 Practice Test 2025 is an independent app. It is not affiliated with or endorsed by the official certification exams or its governing body.
+
+________________________________
+Easy Prep Pro Subscription
+• Easy Prep Pro includes full access to the specified course for the duration of the subscription period.
+• All prices are subject to change without notification. Promotion prices and limited-time opportunities may be available for qualifying purchases made during the promotional period. We are unable to offer price protection, refunds, or retroactive discounts for previous purchases if we offer a promotional offering or price reduction.
+• Payment is charged through your Google Play account at confirmation of purchase.
+• Your Google Play account will be automatically renewed and charged for renewal unless turned off in Google Play Account Settings at least 24 hours before the current subscription period ends (including the free trial period). The unused portion of the free trial is forfeited after purchase.
+• Subscriptions may be managed by the user and auto-renewal may be turned off in the user’s Google Play Account Settings after purchase. However, you are not able to cancel the current subscription period during its active subscription period.
+
+________________________________
+Our Terms of Service and Privacy Policy: 
+Privacy Policy: https://simple-elearning.github.io/privacy/privacy_policy.html 
+Terms of Use: https://simple-elearning.github.io/privacy/terms_and_conditions.html
+Contact us: support@easy-prep.org",Education,4.366667,"1,000+",Easy Prep,https://play.google.com/store/apps/details?id=com.sima.az900&hl=en&gl=us,ISO 9001
+com.stab.mobileApp,ISOA 2025,"Your ISOA app for events and conferences. Log in to view agendas, meet the speakers, network with attendees, and access important information regarding the conference or event.",Events,,100+,vFairs,https://play.google.com/store/apps/details?id=com.stab.mobileApp&hl=en&gl=us,ISO 9001
+com.epocrates,epocrates: Drug Checker App,"epocrates is the essential drug reference and clinical decision-support app trusted by doctors, NPs, pharmacists, and medical students for over twenty years.
+
+With over one million healthcare professionals using epocrates, it’s more than just a pill identifier. It’s a complete medical companion for prescribing, diagnosing, dosing, and checking drug interactions at the point of care.
+
+Top Tools for Clinicians
+
+●	Pill Identifier – Instantly identify pills using color, shape, and imprint. This pill identifier tool helps you confirm medications with confidence.
+●	Drug Interaction Checker—This tool Checks for drug interactions between prescription medications, OTC drugs, and supplements. It helps manage polypharmacy risks and improve patient safety.
+●	Rx and OTC Drug Info – Access 6,000+ drug monographs with adult and pediatric dosing, contraindications, black box warnings, pharmacology, and more.
+●	Clinical Pharmacology – Understand how drugs work, including mechanisms of action, side effects, and clinical uses.
+●	Lab Reference Values – Find normal ranges and interpretations for hundreds of lab tests.
+●	Dosing Calculator – Use trusted tools to adjust doses by weight or age, which is ideal for pediatrics and geriatrics.
+●	Symptom Checker and Disease Guide – Review common symptoms, match conditions, and find treatment guidance quickly.
+●	Herbs & Supplements – Search alternative medicines, natural remedies, supplements, and herbal interactions alongside standard drugs.
+●	Offline Access – Use epocrates without Wi-Fi or signal. Reliable in hospitals, remote care, or emergencies.
+
+Why Clinicians Trust epocrates
+
+●	Rated the #1 medical app 10 years in a row.
+●	Supports doctors, nurse practitioners, physician assistants, and students.
+●	Continuously updated by clinical editors.
+●	Built to reduce medical errors and save time.
+●	Faster than searching “up to date” or medical websites on your phone.
+●	Recommended by preceptors, used during rotations, and essential for boards.
+
+
+Whether comparing epocrates vs. Lexicomp or looking for a simpler Medscape alternative, epocrates delivers fast answers with less noise. From quick pill ID to complete drug interactions, everything is just a tap away.
+
+Common Searches We Support
+
+●	Drug checker
+●	Pill identifier app
+●	Pharmacology app
+●	UpToDate for Android
+●	Drug interaction checker
+●	Clinical pharmacology reference
+●	Drugs dictionary offline
+●	Rx app
+●	Drug database
+●	Prescribing app
+●	Drug info app
+●	GP notebook
+●	Medical calculator and dosing tools
+●	Medication tracker and checker
+●	Drug delivery app for prescribers
+●	KnowDrugs, MedCalc, and more
+
+Users also trust epocrates when searching for apps like Medscape, Hippocrates, Amboss, MDCalc, Sanford Guide, and ClinicalKey.
+
+Subscription & Terms
+Some features may require a subscription. Payment will be charged to your Google Play account. 
+
+Subscriptions renew automatically unless canceled before the end of the current period. You can manage or cancel anytime via your Play Store account settings.
+
+Terms of Use: https://www.epocrates.com/TermsOfUse.do
+Privacy Policy: http://www.epocrates.com/privacy
+
+Download epocrates and experience the drug info app built for modern clinical practice.",Medical,2.357143,"1,000,000+","Epocrates, Inc.",https://play.google.com/store/apps/details?id=com.epocrates&hl=en&gl=us,ISO 9001
+com.safetyculture.iauditor,SafetyCulture (iAuditor),"Trusted by over 70,000 organizations, SafetyCulture (formerly iAuditor) is a mobile-first operations platform that gives you the knowledge, tools, and processes you need for a better way to work. Empower your team to work safely, meet higher standards, and improve every day.
+
+The app helps you create checklists, conduct inspections, raise and resolve issues, manage assets, and train teams on the go. You can easily convert your paper checklists into mobile-ready inspection forms and share professional reports instantly.
+
+SafetyCulture (iAuditor) powers over a billion checks per year, approximately 85,000 lessons per day and millions of corrective actions. Some of the world's largest businesses use the platform to digitally transform their operations and drive a culture of continuous improvement.
+
+<b>INSPECTIONS</b>
+•Conduct inspections and audits on the job, even when offline
+•Schedule future inspections and set reminders for upcoming inspections
+•Capture incidents and issues with photo and video evidence
+•Create and customize dynamic inspection templates and checklists
+•Create inspection templates using AI, describe your template’s purpose in a few words to generate suggested questions as a starting point for your template
+•Import existing checklists and inspection templates from PDF, Word or Excel
+•Digitize paper inspection templates, checklists and other forms
+•Choose from thousands of customizable inspection templates created by global brands and industry experts
+
+<b>REPORTS</b>
+•Generate and share professional reports after completing checklists, inspections and audits
+•Personalize your inspection reports
+•Share reports with anyone instantly
+•Store all your reports securely in the cloud and offline
+
+<b>TRAINING</b>
+•Create, edit and deploy engaging training and operating manuals in minutes
+•Get training and work instructions you need to do the job right
+•Conduct mobile-first training, that fits into the flow of your work without disruption
+•Receive bite-sized training that doesn’t interrupt your workday
+•Choose from over 1,000 editable library courses
+
+<b>ASSETS</b>
+•Maintain a digital register with a detailed overview of your assets
+•View an up-to-date audit trail of all inspections completed on your assets
+•Create customizable inspection forms for your assets
+•Schedule inspections and recurring maintenance actions for your assets
+•Create follow-up actions for your assets
+
+<b>TASK MANAGEMENT</b>
+•Easily create tasks and assign actions to individuals, groups or teams 
+•Receive alerts and reminders instantly when you’re assigned an action
+•Provide context by attaching photos or PDFs
+
+<b>ISSUE REPORTING</b>
+•Raise incidents and issues as they arise
+•Report observations, hazards, near misses, and more
+•Share what’s happening in detail by capturing critical information with video, photos, weather forecast and location in seconds
+
+<b>BACKGROUND SYNCING</b>
+• Ensure your data is always up to date and securely accessible across all your devices
+• Seamlessly sync your data in real time, guaranteeing that your critical information is never lost
+• Trust that your data is safeguarded and accessible anytime, whether online or offline
+
+SafetyCulture (iAuditor) is completely free for working teams of up to 10. Digitize checklist forms, conduct inspections, complete audits, generate reports, manage assets, conduct training.
+
+You can use SafetyCulture (iAuditor) for:
+
+Safety inspections - risk assessments, incident reports, Job Safety Analysis (JSA), Health and Safety audits (HSE), Safety Data Sheets (SDS) Quality Health Safety Environment (QHSE) audits, Personal Protective Equipment (PPE) inspections, vehicle inspections, fire safety risk assessments
+Quality control checks - quality assurance, food safety Inspections, cleaning checklists, maintenance inspections, site audits, construction audits, control checklists
+Work management - business checklists, work order checklists, Six Sigma (6s), toolbox talks",Business,4.6014233,"1,000,000+",SafetyCulture,https://play.google.com/store/apps/details?id=com.safetyculture.iauditor&hl=en&gl=us,ISO 9001
+com.caiso.IsoToday,ISO Today,"Monitor California ISO power grid conditions, prices and renewable production, receive notifications and track calendar events with this free mobile application. 
+
+Features:
+•	Monitor available resource adequacy capacity to identify when energy supply might be tight, up to 7 days in advance.
+•	View grid status and available capacity measured against the current demand and the forecasted peak.
+•	View renewables and supply graphs as stacked charts.
+•	View peak and daily production data for past dates on the renewables trend graph.
+•	View breakdown of supply and renewables serving the ISO.
+•	Monitor emissions.
+•	View wholesale energy prices on the price map. Use the slider to easily filter out nodes based on Location Marginal Prices (LMP).
+•	Compare demand and net demand plus historic data.
+•	Users can receive Flex Alerts to notify them when conservation is needed, get energy system notifications, along with ability to add ISO meetings and events to their calendar.
+
+About the California ISO:
+As the nonprofit public-benefit corporation ensuring reliability for most of California's and a portion of Nevada's high-voltage power grid, the California Independent System Operator (ISO) is helping advance a smarter, cleaner, and more reliable energy future. The ISO operates a competitive energy market that balances supply with demand and has a key role in achieving clean energy goals in the West. For more information about California ISO, visit https://www.caiso.com.",Business,4.3689322,"10,000+",California Independent System Operator Corporation,https://play.google.com/store/apps/details?id=com.caiso.IsoToday&hl=en&gl=us,ISO 9001
+com.milevtraining.azure900exam,Azure AZ-900 Fundamental Exam,"Prepare for your Azure AZ-900 Fundamentals exam with this application. The questions are up-to-date, and we guarantee that if you practice the tests inside this app and go through the explanations, you will pass the exam with ease. If you do not pass the exam using our application, we will refund you without any questions",Education,4.285714,"5,000+",Milev Games,https://play.google.com/store/apps/details?id=com.milevtraining.azure900exam&hl=en&gl=us,ISO 9001
+com.metrix.software.solutions,IsoMetrix,"IsoMetrix brings together, in a single system, all your requirements for managing business risk, legal compliance, governance, and sustainability.
+
+IsoMetrix is one of the world’s leading developers of software solutions for enterprise risk management. 
+
+We believe that proper management of Governance, Risk and Compliance provides powerful and wide-reaching benefits. 
+
+It is good for our planet, and the people and communities we work and live with. It also leads to more profitable and resilient businesses. 
+
+We enable businesses to run sustainable.",Business,0.0,"10,000+",METRIX SOFTWARE SOLUTIONS (PTY) LTD,https://play.google.com/store/apps/details?id=com.metrix.software.solutions&hl=en&gl=us,ISO 9001
+com.acehardware.rewards,Ace Hardware,"Welcome to the helpful place right on your smartphone. Take your Ace Hardware shopping and rewards experience to the next level and get a $10 bonus* when you download the Ace app and link your Ace Rewards account.
+
+HOME
+
+See your Ace Rewards status and take advantage of your monthly offers. Premier members can see their exclusive deals and all users can see what’s new at Ace.
+
+REWARDS
+
+Get your rewards faster and earn points in more ways. Track your points easily and invite your friends to get 1,000 bonus points. See recommended items to get you to your next reward and how close you are to Premier status. Check out your annual Ace Rewards savings too!
+
+MY STORE
+
+Locate your preferred store and contact it easily with one click calling and mapping capabilities. Check out your store’s local ad, hours, services, brands and events.
+
+SHOPPING
+
+Shop thousands of products like grills, power tools, and home improvement products. Then, choose how to get them, in store, store pickup, curbside pickup, or delivery.
+
+ADDITIONAL FEATURES
+
+- Access your Rewards and offers in one place and add them to your digital wallet with ease
+- See your purchase history to easily reference products
+- Your inbox will house all your past notifications in case you missed them
+- Store other purchases in My Products to easily access warranty, additional parts, or paint colors and sheens.
+
+Exclusions apply.  Limit one bonus coupon per Ace Rewards member.  Bonus Coupon will be available the day after an Ace Rewards member downloads the mobile app for the first time.  One time offer valid for first download.  Visit the mobile app for details.
+
+When you download the Ace Hardware mobile app, you are agreeing to the following:
+
+i. Ace Rewards Terms & Conditions - <a href=""https://www.google.com/url?q=https%3A%2F%2Fwww.acehardware.com%2Fcustomer-service%3Fpage%3Dace-rewards&sa=D&sntz=1&usg=AOvVaw0V9fsegoa6j9Mnk_gN4AJ5"">https://www.acehardware.com/customer-service?page=ace-rewards</a>
+
+ii. Mobile App Terms & Conditions - <a href=""https://www.google.com/url?q=https%3A%2F%2Fwww.acehardware.com%2Fcustomer-service%3Fpage%3Dterms-of-use&sa=D&sntz=1&usg=AOvVaw2FrSENW4o-LomlvMLcr3dD"">https://www.acehardware.com/customer-service?page=terms-of-use</a>
+
+iii. Privacy Policy - <a href=""https://www.google.com/url?q=https%3A%2F%2Fwww.acehardware.com%2Fcustomer-service%3Fpage%3Dprivacy-policy&sa=D&sntz=1&usg=AOvVaw1gqt-xDTHFW-kcsindgN-L"">https://www.acehardware.com/customer-service?page=privacy-policy</a>
+
+Download the mobile app for more information.",Shopping,4.748525,"1,000,000+",Ace Hardware Corporation,https://play.google.com/store/apps/details?id=com.acehardware.rewards&hl=en&gl=us,ISO 9001
+isone.com.isotogo.android,ISO to Go,"This free application from ISO New England will help you better understand the regional power grid that serves Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont. With detailed pricing data, power system status updates, and customizable notifications, you can follow how changing grid conditions affect wholesale electricity prices and the fuel mix used to keep your lights on. 
+
+ISO to Go features:
+- Comprehensive day-ahead and real-time wholesale electricity price data for all locations across New England
+- A new-and-improved price map that works across all screen sizes
+- Geolocation feature to determine your local wholesale electricity price
+- Past, present, and future electricity demand data, and a new interactive real-time vs forecasted demand comparison chart
+- Stats on what energy sources are powering New England at any given moment, including a breakdown of renewable generation
+- Updates on power grid conditions, key in tighter summer and winter months
+- Plus customizable push notifications that alert you to changes in prices or grid operating conditions
+
+About ISO New England
+ISO New England is the independent, not-for-profit corporation responsible for overseeing the day-to-day reliable operation of New England’s power generation and transmission system, designing, administering, and monitoring the region’s competitive wholesale electricity markets, and managing comprehensive regional power system planning. The company’s workforce of power system engineers, economists, computer scientists, and other professionals fulfil these three critical responsibilities that together ensure New England has reliable, competitively priced electricity today and into the future.
+For more information about ISO New England, visit the company’s website at www.iso-ne.com.",Education,4.428571,"1,000+",ISO New England,https://play.google.com/store/apps/details?id=isone.com.isotogo.android&hl=en&gl=us,ISO 9001
+checkbuster_v3.Android,Inspection checklist audit app,"Checkbuster is the leading safety inspection & (ISO) audit app for Android. Based on our worldwide user experience in safety- & quality inspections and incident reports, we’ve created an app to conduct, report and share inspection & audit results within teams. 
+
+This checklist app is used all over the world in daily quality control measurements, annual audits and safety inspections. Checkbuster contains templates for inspections, audits and registrations based on international standards. Examples are: HSE, ISO 9001, HACCP, ISO 14001, OSHA, OSHAS, OHSAS, ISO 22000, BRC, IFS, QMS, GMP, ISO 18001, Fire Safety, Infection Prevention, WIP, MRSA, etc.
+
+Benefits of Checkbuster:
+✅ Easily created custom forms.
+✅ Improve communication between team members.
+✅ Save time and money
+✅ Online & Offline inspection and audit app functionality
+
+Industries
+Create safety checklists and act on hazards immediately so your employees can safely go to work on any construction site. Or guarantee the safety of your patients and employees with infection prevention and food-safety or food defense checklists. Checkbuster increases the quality of work and creates a safer organization with you.
+
+Checkbuster is used in: 
+•	Healthcare, 
+•	Construction,
+•	Hospitality,
+•	Aviation,
+•	Engineering,
+•	Manufacturing,
+•	Transport & Logistics,
+•	Food & Foodsafety,
+•	…And much more
+
+Steps to digitize your quality and safety procedures:
+1️⃣ Customize your own form in a minute or choose a template from our library.
+2️⃣ Conduct your inspection or audit.
+3️⃣ Assign tasks and solve issues with your team members.
+4️⃣ Easily share the automatic inspection report with colleagues, customers and suppliers.
+
+Manage negative inspection results and reports and command the PDCA-circle. From Food Safety/HACCP to ISO 9001, from OSHAS to Fire Safety and construction checklists. Thanks to the complete and secure cloud backup, you and your colleagues can always view reports from any location and give them the desired follow up.  
+
+The best app for inspection reports:
+✓ Reports include images, notes and scores
+✓ Create reports with your unique design
+✓ Improvement reports
+✓ Interactive management reports
+✓ Share reports with colleagues, customers or suppliers
+ 
+Also suitable for large organizations:
+✓ Complete and secure cloud backup
+✓ Always access to results and reports
+✓ Workflow with task management for Plan-Do-Check-Act-circle
+✓ Save up to 70 % time on audits and inspections
+
+Invite your team members and work simultaneously inspections with your team. Checkbuster streamlines your quality & safety process. Start now!",Business,4.296296,"100,000+",Checkbuster,https://play.google.com/store/apps/details?id=checkbuster_v3.Android&hl=en&gl=us,ISO 9001
+pro.iprep.epa,EPA 608 Test Prep 2025,"With our mobile app, you can practice anytime, anywhere to improve your EPA Section 608 exam performance. You can choose to take a short 5-minute test, or you can customize an excellent practice to suit your own situation.
+
+Key Features:
+
+- Easy-to-use interface: you can get started quickly without having to spend time understanding how the app works.
+
+- Multiple quiz modes: You can choose to take a quick 10-question quiz at random, take a quiz on mistakes or customize your quiz rules.
+
+- Simulated quizzes: the same time and number of questions as in the real exam, so you can familiarize yourself with the real exam beforehand.
+
+- Dark Mode: Supports dark mode, which is convenient for you to use at night. You can also choose to turn on or off the dark mode at any time in the settings.
+
+Now the choice is yours. Are you ready to explore your Section 608 exam with us and score your satisfaction? Get this app now and get started!
+
+- - - - - - - - - - - - -
+
+Purchase, subscription and terms
+
+You need to purchase a subscription to unlock the full range of features, topics and questions. The purchase will be automatically deducted from your Google Play account. Subscriptions are automatically renewable and billed according to the subscription plan and rate you choose. The auto-renewal fee will be charged to the user's account no later than 24 hours before the end of the current term.
+
+After you purchase a subscription, you can manage your subscription and cancel, downgrade, or upgrade your subscription at any time in your Account Settings in Google Play. Unused portions of the free trial period (if provided) will be canceled when the user purchases a subscription to the publication, if applicable.
+
+***********
+
+Discaimer: EPA 608 Test Prep 2025 is an independent application. It is not affiliated with any government, nor does it represent any government or political entity.
+
+Government Information Source: https://www.epa.gov/section608/.
+
+You can verify and validate the information on this app through the official EPA website: https://www.epa.gov/section608/. If you have any problems while using it, please contact us immediately via email at Contact@examprep.site.
+
+Our Terms of Service and Privacy Policy: 
+Privacy Policy: https://examprep.site/privacy-policy.html
+Terms of Use: https://examprep.site/terms-of-use.html",Education,0.0,"1,000+",Exam Prep Master,https://play.google.com/store/apps/details?id=pro.iprep.epa&hl=en&gl=us,ISO 9001
+br.com.isow.app,iSOW,"Discover, get involved, volunteer, donate, promote social projects and transform the world!",Lifestyle,,100+,iSOW,https://play.google.com/store/apps/details?id=br.com.isow.app&hl=en&gl=us,ISO 9001
+com.certquestions.mobile_app,Certification Questions,"Launched in 2016, www.certification-questions.com, has grown to become a leading service regarding education for professionals who want to obtain an IT Certification.
+
+
+Our goal is to offer an innovative Web & App Simulator which is always updated with the latest practice questions and it can be used as exam simulator to study and get ready.
+
+
+With this innovative App you can test your knowledge using always the latest practice exams tests.",Education,4.428571,"10,000+",Services & Consulting Force L.T.D.,https://play.google.com/store/apps/details?id=com.certquestions.mobile_app&hl=en&gl=us,ISO 9001
+com.eauditor,eAuditor Audits & Inspections,"<b><h2>EASY INSPECTIONS AND AUDITS IN REAL-TIME FROM MOBILE</h2></b>
+
+<b>eAuditor</b> is Quality Management Software (QMS) designed to enhance field audit productivity, consistency, visibility, & organizational efficiency. It streamlines quality processes in a single application for both employees & auditors.
+
+<b><h2>KEY ADVANTAGES OF OUR AUDIT & INSPECTION APP</h2></b>
+Real-time inspections & visibility, improved standards & compliance are the biggest benefits of eAuditor.
+
+<b>1. It all starts with a checklist template</b>📋
+Digitize your existing checklists with our intuitive audit tool.
+
+<b>2. Conduct an inspection anywhere on your mobile device</b> 📱
+eAuditor makes it easy for anyone in your team to conduct mobile inspections & audits and record your audit results while you're in field. It’s truly auditing made simple.
+
+<b>3. Export & share professional reports</b> 📑
+Instantly generate an inspection report after an inspection is complete. Share inspection reports with your team, managers, or clients with tap of a finger.
+
+<b>4. Gain insights with analytics</b> 📈
+Our safety management & site inspection app allows automatic syncing between mobile devices & desktop platforms and provides real-time analytics dashboards. Get visibility into productivity, compliance, accuracy & more.
+
+<b>5. Reducing Total Cost of Ownership</b> 💰
+eAuditor can help manage the cost of ownership through:
+- Lifecycle management
+- Integrated containment & delivery
+- Technical expertise
+
+<b>6. Cloud-base mobile audits</b> ☁️
+Mobile audits performed by eAuditor are stored in cloud-based database for management reporting & analysis. eAuditor takes productivity extra mile with pre-built & enterprise system integration.
+
+<b>7. Comprehensive All in One Solution</b> 🔄
+eAuditor provides a comprehensive solution for risk, quality & safety management compliance. eAuditor streamlines audit-related tasks which include creating standardized checklist templates, generating audit plan, conducting audits, identifying non-conformances, tracking CAPAs & reporting.
+
+<b>8. Single System</b> 🔍
+eAuditor provides workflows & process management, controls processes & verifies their effectiveness with integrated quality management system for audits, analytics, & validation, automation of audit planning, & generating customizable template-based reports.
+
+<b>9. Versatile Uses</b> ✅
+eAuditor is used by retail, hospitality, manufacturers, construction, health & safety, logistics, healthcare & many other industries. 
+
+<h4>Pre-built templates</h4>
+5s audit
+6s audit
+A3 format
+AC commissioning
+Access Control
+Allergen
+Apartment
+API storage
+APQP
+BRC
+Building Exterior
+Canteen Hygiene
+Chemical Safety
+Cleaning
+Club
+Cold Chain
+Cold Storage
+Condo
+Construction Housekeeping
+Contractor Management
+COSHH
+Custodial
+Daily Shift Report
+DEI
+DMAIC
+Dock Audit
+Dorm
+Driver evaluation
+DSE workstation
+EHS
+Ecosure
+Electrical safety
+Event risk assessment
+Facility
+FDA Mock Audit
+Field Audit
+Fire Extinguisher
+First Aid Kit
+First Article
+Fixed Asset
+Fleet
+Flood Damage
+Forbes Standards
+Forklift Pre-start
+Framing
+Freight Audit
+Gemba Walk
+GMP Audit
+GMP Warehouse
+Grocery store
+Healthcare
+HOA
+Hospitality
+Housekeeping
+HR compliance
+HSE
+HUD
+Insulation
+Intruder Alarm
+Inspectorade
+ISO 45001
+ISO 9001:2015
+Janitorial
+Job site safety
+Layered Process Audit
+Lifting Equipment
+Loading Bay
+Logistics
+LOLER
+LOTO
+MBWA
+Manufacturing audit
+Mechanical Rough-In
+OHSMS AS/NZS 4801:2001
+Operational Readiness
+OSHA
+Outbound Audit
+PSSR
+Parking Lot
+Pharmaceutical
+Plumbing
+Pool
+Post Construction Cleaning
+PP&E
+PPAP
+Pre Drywall
+Process Audit
+Property
+Property Preservation
+Quality Control
+Rental
+REO
+Resort
+Restaurant
+Roof sheathing & shear wall
+Room
+Safety Audit
+Sanitation
+Scaffold safety
+SEMS
+Senior housing
+Shift Report
+Shipment
+Short-Term rental
+Site Risk Assessment
+Six Sigma
+SQFI
+Storage Racks
+Student housing
+Supplier Audit
+Switchboard
+Toolbox Talk
+Vacation Condo & Home
+Vehicle
+Vendor Assessment
+Vendor Risk
+Warehouse
+Workplace Safety",Productivity,4.4444447,"100,000+",Lyons Information Systems,https://play.google.com/store/apps/details?id=com.eauditor&hl=en&gl=us,ISO 9001
+com.datzfain.IsoChecker,ISO Checker,"The developed Android application is able to calculate fits according to ISO 286 having the following features:
+1.	multilingual (the results can be provided in Romanian, English, French and German);
+2.	indicates trough a message the type and the basis system of the chosen fit;
+3.	indicates trough a message if the selected fit is a preferable fit;
+4.	indicates a highlighted message if the chosen fit is not an ISO standardized fit;
+5.	easy to use by unexperienced users.
+Upon entering the nominal dimension, the user selects the tolerance classes for holes and shafts, then the application provides, the complete information regarding the chosen fit, all relevant values including, type of fit, basis system, if it is a recommended or preferable fit and a graphical representation of the tolerance intervals.
+It also prints the upper and lower limit deviations as well as the upper and lower limits of size according to ISO 286-2. 
+Another useful feature is the language menu. When launched, the application will start in English, but if needed, if the user does not understand the terms in English, at a click of a button, Romanian, German or French can be used. This feature is available at any time, even after a fit has been calculated.
+When selecting the basic hole in combination with the basic shaft, the application generates an additional message saying that the minimum clearance is 0.
+If the user selects other tolerance grades that the ones recommended by ISO 286, the application will calculate the resulted fit, but it will also print a red highlighted message mentioning that the selected combination does not return an ISO standardized fit. The same message is generated if the user does not select a hole or a shaft basis system. When selecting other nominal dimensions that the ones listed in ISO 286-2, for each tolerance class, the application will generate a message indicating the interval for the selection of the nominal size.
+To avoid supplementary costs by using too many tools and gauges when manufacturing the parts for the chosen fit, it is recommended that one of the preferable fits indicated according to ISO 286 should be chosen. ISO Checker also provides this information for the chosen fit.
+This application was developed by professor Liviu Adrian Crisan, associate professor Mihai Tripa and lecturer Grigore Marian Pop from the Technical University of Cluj Napoca,  Faculty of Machine Building, department of Design Engineering and Robotics.",Education,0.0,"5,000+",Pop Grigore Marian,https://play.google.com/store/apps/details?id=com.datzfain.IsoChecker&hl=en&gl=us,ISO 9001
+eu.depau.etchdroid,EtchDroid ISO to USB Writer,"EtchDroid is an open-source application that helps you write images to USB drives.
+Use it to make a bootable operating system USB drive when your laptop is dead.
+
+⭐️ Supported devices ⭐️
+
+✅ USB flash drives
+✅ USB SD card adapters
+❌ USB hard drives / SSDs
+❌ USB docks and hubs
+❌ Internal SD card slot
+❌ Optical or floppy disk drives
+❌ Thunderbolt-only devices
+
+
+⭐️ Supported disk image types ⭐️
+
+✅ Modern GNU/Linux operating system images, including Arch Linux, Ubuntu, Debian, Fedora, pop!_OS, Linux Mint, FreeBSD, BlissOS and many more
+✅ Raspberry PI SD card images (but you must unzip them first!)
+❌ Official Microsoft Windows ISOs
+⚠️ Community-built Windows images, made for EtchDroid (be careful: they may contain viruses!)
+❌ Apple DMG disk images
+❌ Older GNU/Linux OS images < 2010 such as Damn Small Linux
+
+
+Source code is on GitHub: https://github.com/EtchDroid/EtchDroid",Tools,4.714286,"1,000,000+",Davide Depau,https://play.google.com/store/apps/details?id=eu.depau.etchdroid&hl=en&gl=us,ISO 9001
+com.bestfungames.epa,EPA 608 Exam Prep & HVAC Test,"Pass your EPA 608 certification exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 1,600+ questions written by experts, detailed explanations for each question, and hundreds of tests & quizzes at your fingertips, this is the only resource you need to prepare for your EPA 608 certification.
+
+Our app's content is neatly categorized by exam type—Universal, Core, Type I, Type II, and Type III—allowing you to tailor your study focus according to your certification objectives.
+
+## Pass On Your First Attempt ##
+
+Our EPA 608 exam prep application is renowned for its focused and thorough content analysis, cutting-edge learning methods, and rigorous precision. We delve deep into every section of the latest exam, consistently refining our material to stay relevant. For both correct and incorrect answers, we offer in-depth explanations to reinforce comprehension of crucial exam concepts.
+
+Additionally, our mobile app provides a personalized study plan based on your skill level, study frequency, and target test date. Not sure when you want to take the exam? You can adjust your study plan as often as you like. Our proprietary readiness score will help you determine when you’re ready to take the real EPA 608 certification exams (Universal, Core, Type I, Type II, and Type III) and pass with a high score on your first try.
+
+## Designed & Developed By Experts ##
+
+Key Features:
+• EPA 608 Exam Prep
+• Broken Down by Exam Type
+• 1,600+ Realistic Questions
+• Questions From All Sub-Topics
+• 200+ Tests and Quizzes
+• Detailed Explanations
+• 5 Test & Quiz Modes
+• Designed By Experts
+• Helpful Community Stats
+• Progress Tracking & Metrics
+• Helpful Reminders & Widgets
+
+For more information on our Terms of Use and Privacy Policy, please visit the following websites:
+
+https://bestfungamesllc.com/terms
+https://bestfungamesllc.com/privacy",Education,4.854369,"10,000+","Best Fun Games, LLC",https://play.google.com/store/apps/details?id=com.bestfungames.epa&hl=en&gl=us,ISO 9001
+com.ResusciTech.SMARTCertification,SMART Certification,"The ResusciTech lay-responder certificate is OSHA and American Heart Association compliant and anyone can earn it anytime, anywhere, in 90 minutes or less.
+
+This training course includes gamified learning activities, short video demonstrations, and guided hands-on chest compression practice. All you need to complete this course is your phone and a couch seat cushion for chest compression practice.",Education,4.54,"5,000+",ResusciTech,https://play.google.com/store/apps/details?id=com.ResusciTech.SMARTCertification&hl=en&gl=us,ISO 9001
+com.shepherd.member,Shepherd Community,"Introducing the Shepherd HOA app, your ultimate solution for seamless building management in Dubai and Abu Dhabi, UAE. Shepherd Homeowners Association is ISO 9001:2015 certified for quality management systems, ensuring the highest standards in jointly owned property management services that are fully compliant with RERA regulations. Designed to make your life easier, our app allows homeowners to efficiently manage all aspects of property, including:
+    •    Registering complaints
+    •    Requesting move-in/move-out forms
+    •    Making maintenance requests
+    •    Requesting No Objection Certificates (NOCs)
+    •    Requesting access tags, parking cards, parking stickers, and amenities access cards
+    •    Requesting building access
+    •    Requesting chiller charges information
+    •    Requesting consolidated service charges information from Mollak
+    •    Requesting consolidated statements of account
+    •    Uploading transaction receipts
+Our app also enables you to stay updated on community matters, communicate directly with our customer service team, and track the status of your requests in real time. Enjoy peace of mind knowing that our dedicated facility and community managers are just a tap away, ensuring your building remains compliant and well-maintained.
+In the UAE, we operate as Shepherd OAM Jointly Owned Management Services LLC, and in Dallas, we are known as Shepherd Homeowners Association LLC. Download the Shepherd HOA app today and experience a new level of convenience in managing your home",Productivity,,50+,Shepherd HOA,https://play.google.com/store/apps/details?id=com.shepherd.member&hl=en&gl=us,ISO 9001
+com.hltcorp.surgicaltech,NBSTSA CST Exam Prep Mastery,"Pass your exam with CST Exam Prep Mastery — the #1 rated prep. Features 2,100+ exam-like questions, detailed explanations, custom quizzes, & performance metrics.
+
+Install the free version today and jump start your studying! This version includes a limited amount of practice questions and basic progress metrics.
+Subscribe today and get access to:
+• 2,100+ practice questions with detailed explanations and images
+• 30+ high-yield review chapters with comprehension questions
+• How-to videos on suturing and instrument use
+• In-depth statistics that display your strengths and weaknesses
+• Immediate feedback to track your overall progress
+
+With the Surgical Technologist Exam Prep app in your toolkit, you have all the information you need to master your exam and kick-start your career.
+
+<b>Ace the Surgical Tech exam with just 10 minutes of studying per day!</b>
+
+Our NBSTSA CST EXAM PREP will help you identify areas they may struggle with and maximize the time needed to study and get the best Surgical Tech Test score!
+
+Download for FREE and try the Surgical Tech Exam prep app before you decide to subscribe!  We guarantee that with a small investment, you will pass CST exam 100%.
+
+Get access to all materials when you subscribe:
+• 1 Month auto-renewing payment of $23.99
+• 6 Month auto-renewing payment of $99.99
+• 12 Month auto-renewing payment of $149.99
+
+NBSTSA CST EXAM PREP for a better future! The Certified Surgical Technologist (NBSTSA CST) certification is available for professionals who seek to demonstrate expertise in aseptic technique, patient care, surgical procedures and suturing techniques. Professionals who hold this certification have successfully passed the LANGE CST exam administered by the National Board of Surgical Technology and Surgical Assisting (NBSTSA). Be one of them!
+
+Don't wait! Try our CST Study Guide and know what to expect. Download TODAY and become a Certified Surgical Technologist with no stress!
+
+Call us at 319-237-7162 or email us at support@hltcorp.com with any questions.
+
+Privacy Policy - http://builtbyhlt.com/privacy
+Terms of Conditions - http://builtbyhlt.com/EULA",Education,4.93,"10,000+",Higher Learning Technologies Inc,https://play.google.com/store/apps/details?id=com.hltcorp.surgicaltech&hl=en&gl=us,ISO 9001
+com.medpresso.Lonestar.poisonod,Poisoning & Drug Overdose Info,"""Try before you buy"" - Download the FREE App, which includes sample content. An in-App purchase is required to unlock all content.
+
+Designed for speed of use during toxicologic emergencies, this instant-answer guide delivers critical information on the effective diagnosis and treatment of drug-related emergencies and chemical exposures.  Poisoning & Drug Overdose, 8th Edition should be within reach of every medical toxicologist, emergency physician, and poison control staff member.
+
+When every moment counts, count on Poisoning & Drug Overdose
+
+A Doody's Core Title for 2023! 
+
+Speed is crucial when dealing with toxicologic and drug-related emergencies. Finding answers quickly is easier than ever with this streamlined eighth edition of Poisoning and Drug Overdose. This instant-answer guide provides the critical information needed to diagnose and manage drug-related emergencies and chemical exposures.
+
+Updated with newly released drugs and new information on existing drugs, the guide covers initial emergency management, including treatment of coma, seizures and hypotension; physical and laboratory diagnosis; and methods of decontamination and enhanced elimination of poisons.
+
+Poisoning and Drug Overdose, Eighth Edition is divided into four sections:
+
+- Section I.  Provides a stepwise approach to the evaluation and treatment of coma, seizures, shock, and other complications of poisoning and the proper use of gastric decontamination and dialysis procedures.
+
+- Section II. Lists specific poisons and drugs, as well as the pathophysiology, toxic dose and level, clinical presentation, diagnosis, and specific treatment associated with each substance.
+
+- Section III. Covers descriptions of therapeutic drugs and antidotes, including pharmacology indications, adverse effects, drug interactions, and recommended dosage.
+
+- Section IV. Describes the approach to hazardous materials incidents; the evaluation of occupational exposures; and the toxic effects, physical properties, and workplace limits for over 500 common industrial chemicals.
+
+Poisoning and Drug Overdose, Eighth Edition is enhanced by numerous tables and charts, as well as a user-friendly index. This trusted resource has consistently been relied upon by front line professionals responding to drug-related emergencies and chemical exposures.
+ 
+No internet connection is required to access the content after the initial download. Find information quickly using powerful SmartSearch technology. Search part of term for those hard to spell medical terms.
+
+Content licensed from printed ISBN 10: 1264259085
+Content licensed from printed ISBN 13: 9781264259083
+
+If you have any questions or comments, email us any time: customersupport@skyscape.com or call 508-299-30000
+ 
+Privacy Policy-https://www.skyscape.com/terms-of-service/privacypolicy.aspx
+Terms and Conditions-https://www.skyscape.com/terms-of-service/licenseagreement.aspx
+ 
+Editor(s): Kent R. Olson, Craig Smollin, Ilene B. Anderson, Neal L. Benowitz, Paul D. Blanc, Susan Y. Kim-Katz, Justin C. Lewis, Alan H. B. Wu
+Publisher: McGraw-Hil",Medical,0.0,"5,000+",Skyscape Medpresso Inc,https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.poisonod&hl=en&gl=us,ISO 9001
+com.qooling,Qooling,"Managing safety and quality is a pretty though job. In order to manage quality and safety more easily and get more value out of the system we developed Qooling. Qooling is able to support companies with quality and safety management system based on ISO9001, OHSAS18001, VCA, ISO14001 and for the security companies ISO27001.",Business,0.0,"1,000+",Qooling,https://play.google.com/store/apps/details?id=com.qooling&hl=en&gl=us,ISO 9001
+iso.extractor.archive,ISO Extractor & File Opener,"This Iso file extractor is an easy to use tool that allows you extract all iso files.
+
+Do you have the need to open iso files, then we have created this useful tool for you to directly extract all files and folders form the iso disc image file. This is a really useful tool because you no longer need a virtual CD-ROM to access your iso files. You also do not  need to burn DVD/CD discsjust because you want to open iso files. This handy iso opener for android would allow you have access to all the contents of an ISO image file.
+
+It is very easy to use this app, you only need to install the app, then launch it. You would be presented with various options for you to be able to extract your files. You can either allows the app scan for existing iso files on your mobile device, or you select the file yourself.",Productivity,2.2564104,"100,000+",Baj,https://play.google.com/store/apps/details?id=iso.extractor.archive&hl=en&gl=us,ISO 13485
+co.scoocs.meetings.iso,ISO Annual Meetings,"The ISO Annual Meetings app provides an optimized participant experience. Make the most of the event and browse the latest programme, manage your agenda, message with others taking part, and much more.",Events,,500+,SCOOCS,https://play.google.com/store/apps/details?id=co.scoocs.meetings.iso&hl=en&gl=us,ISO 13485
+co.com.iso.app,ISO App,"Aplicación de servicio al cliente de ISO, donde podras encontrar diferentes canáles para resolver tus inquietudes y mantenerte informado sobre nuestros productos y eventos. Aquí encontraras catalogos, fichas técnicas, chat, calendario de eventos y más.",Medical,,500+,Up Ideas Agency,https://play.google.com/store/apps/details?id=co.com.iso.app&hl=en&gl=us,ISO 13485
+com.ison,ISON Doc,"iSON Health is dedicated to supporting your journey to a healthier life, and our Telehealth App, iSON Doc, is designed to make accessing medical advice effortless. With just a tap, you can connect directly with our doctors for consultations via video or audio. Our app, available in English & Arabic, enables you to consult with our doctor from anywhere, at any time, providing instant medical advice for non-emergency conditions.
+
+Rest assured, the iSON Doc App prioritizes your privacy and security. Your calls and chats with our doctors are completely confidential and fully protected. Additionally, you can provide feedback by rating the doctor's assistance, ensuring that your experience is valued and continuously improved.
+
+ 
+
+Here's how to consult online with the iSON Doc app:
+
+Book an appointment or Instant call with a doctor for an online consultation.
+Start the consultation.
+Fill in the survey after the consultation.
+Note: Please avoid using the app for emergencies.",Medical,,500+,iSON Health,https://play.google.com/store/apps/details?id=com.ison&hl=en&gl=us,ISO 13485
+com.aryeo.isoperfectllc,ISO,"ISO is a cutting-edge real estate digital media company specializing in providing top-notch services to enhance property marketing and presentation. With a strong focus on innovation and creativity, ISO offers a comprehensive range of solutions that includes 3D tours, floor plans, HDR photography, aerial photography, aerial videography, virtual staging, and video walkthroughs.
+
+One of the standout features of ISO is its ability to create immersive 3D tours, allowing potential buyers or renters to virtually explore properties as if they were physically present. These tours provide a highly realistic and interactive experience, enabling viewers to navigate through different rooms, examine details, and gain a comprehensive understanding of the property's layout.
+
+In addition to 3D tours, ISO excels in producing high-quality floor plans that accurately represent the dimensions and layout of a property. This enables clients to provide potential buyers with clear visualizations of the space and assists in making informed decisions.
+
+To capture properties in their best light, ISO employs HDR photography techniques, ensuring vibrant and captivating images that showcase the property's unique features. They also utilize aerial photography and videography, leveraging drones to capture stunning aerial views and provide a fresh perspective on properties and their surroundings.
+
+ISO understands the power of visualizing a property's potential, and thus offers virtual staging services. By digitally adding furniture and décor to empty spaces, they create visually appealing and inviting environments that help potential buyers envision themselves living in the property.
+
+To further enhance property marketing, ISO offers video walkthroughs that effectively showcase the flow and ambiance of a property. These professionally produced videos provide a dynamic and engaging visual experience for viewers, enabling them to explore the property from the comfort of their own devices.
+
+With a team of skilled professionals and state-of-the-art equipment, ISO strives to deliver outstanding results and exceed client expectations. Their commitment to quality, attention to detail, and dedication to innovation make them a leading digital media company in the real estate industry, trusted by real estate agents, developers, and homeowners alike.",Business,,10+,iSO Perfect Developer,https://play.google.com/store/apps/details?id=com.aryeo.isoperfectllc&hl=en&gl=us,ISO 13485
+com.ce.android.brand.isoisoramen,Iso Iso,"Iso Iso Ramen is proud to serve mouthwatering ramen to hungry bellies. Download the Iso Iso app to order pickup, delivery, and earn loyalty points.
+
+Earn Loyalty Points
+Earn 1 point per dollar you spend in-store or online. Accumulate points to unlock free items and other promotions.
+
+Order Pickup & Delivery
+Order your favorite ramen from your phone. You can pick up your food in-store or have it delivered to your front door!
+
+Stay Updated
+You will be the first to know about upcoming deals and promotions!",Food & Drink,0.0,100+,Incentivio Inc.,https://play.google.com/store/apps/details?id=com.ce.android.brand.isoisoramen&hl=en&gl=us,ISO 13485
+com.unbound.android.cqdzl,Diagnosaurus DDx,"** Top-Selling App Used by Tens of Thousands of Health Professionals, Worldwide ** 
+
+Preview, Buy, or Sign In using this app. 
+
+FREE PREVIEW – View select topics and discover how you can perform differential diagnoses fast using the quick-read entries and links to alternate diagnoses.
+
+ABOUT DIAGNOSAURUS DDX
+This quick-reference tool helps healthcare professionals perform differential diagnosis with speed and confidence at the point of care. With Diagnosaurus you can quickly search over 1,000 diagnoses by organ system, symptom, or disease, or you can view all entries. Use the valuable “See Related DDx” feature within each entry to consider alternative diagnoses and quickly link to those entries. The convenient “Favorites” feature allows you to save specific searches and bookmark in your personal archive. 
+
+FEATURES 
+• More than 1,000 differential diagnoses
+• Entries organized in quick-read format
+• “See Related DDx” links to other potential diagnoses
+• Disease, symptom, and organ system indexes
+• “Favorites” for bookmarking important entries
+• Universal Index Search to help find answers fast
+
+Author: Roni F. Zeiger, MD 
+Publisher: McGraw-Hill Medical
+Powered by: Unbound Medicine",Medical,4.91,"50,000+","Unbound Medicine, Inc",https://play.google.com/store/apps/details?id=com.unbound.android.cqdzl&hl=en&gl=us,ISO 13485
+com.medpresso.Lonestar.medsrg,Medical Surgical RN Companion,"""Try before you buy"" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content.
+
+Quick access to 200 medical-surgical conditions and procedures, includes full color illustrations, summary tables, lab values and more.
+
+Designed for portability, this Clinical Companion provides at-a-glance access to key information on more than 200 medical-surgical conditions and procedures. Completely updated content mirrors the revisions in the latest edition of Lewis’s Medical-Surgical Nursing: Assessment and Management of Clinical Problems. Organized alphabetically for quick reference, it includes a variety of full-color illustrations and summary tables, as well as a handy reference appendix with laboratory values, Spanish translations of key phrases, and other information commonly used in nursing practice.
+
+Key Features
+- Part One: Disorders offers practical information in a consistent format: Definitions and Descriptions, Pathophysiology, Clinical Manifestations, Complications, Diagnostic Studies, Interprofessional Care and Drug Therapy, and Nursing Management.
+- Treatments and Procedures section summarizes need-to-know content about common medical-surgical treatments and procedures such as basic life support, enteral nutrition, and artificial airway management.
+-  Patient and caregiver teaching content is highlighted with a special icon to identify appropriate information to share with patients and caregivers about the care of various conditions.
+- Cross-references to the main text direct you to more in-depth information.
+- Handy reference appendix contains information frequently used in nursing practice, including laboratory values, commonly used formulas, Spanish translations of key phrases, and much more.
+
+New to This Edition
+- Updated content reflects the revisions and updates in the Lewis's Medical-Surgical Nursing, 12th Edition text.
+
+Content licensed from printed edition ISBN-13: 9780323792431
+Content licensed from printed edition ISBN-10: 032379243X
+
+SUBSCRIPTION :
+Please purchase a yearly auto-renewing subscription to receive content access and available updates.
+
+Yearly auto-renewing payments- $39.99
+
+Payment will be charged to your mode of payment you select at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Subscription may be managed by the user and auto-renewal can be disabled at any time by going to your App “Settings” and tapping “Manage Subscriptions”. Any unused portion of a free trial period will be forfeited when you purchase a subscription, where applicable.
+
+If you have any questions or comments, email us any time: customersupport@skyscape.com or call 508-299-3000
+
+Privacy Policy - https://www.skyscape.com/index/privacy.aspx
+Terms and Conditions - https://www.skyscape.com/terms-of-service/licenseagreement.aspx
+
+Author(s): Debra Hagler, PhD, RN, ACNS-BC, CNE, CHSE, ANEF, FAAN, Mariann M. Harding, PhD, RN, CNE, FAADN, Jeffrey Kwong, DNP, MPH, AGPCNP-BC, FAANP, FAAN and Courtney Reinisch, RN, DNP, FNP-BC
+Publisher: Elsevier Health Sciences Company",Medical,4.1538463,"50,000+",Skyscape Medpresso Inc,https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.medsrg&hl=en&gl=us,ISO 13485
+com.msdsonline.eBinder,SDS / Chemical Management,"SDS/Chemical Management Mobile Application
+
+Having immediate access to your hazardous chemical information is your key to maintaining a safe, compliant workplace. A compliant chemical inventory starts with knowing what materials are onsite, where they are used/ stored, their precise quantities, and ensuring each has an MSDS.
+
+With VelocityEHS mobile capabilities, you can manage chemical inventory and ensure a safe and compliant workplace, all from a single application. Powered by your MSDSonline HQ or HQ RegXR account, the SDS/Chemical Management app —previously named ‘eBinder’- lets you locate and manage the contents of chemical containers in your workplace, as well as search your account for Safety Data Sheets and save them to your mobile device for offline use. 
+
+Search and filter your account’s eBinder for quick access to the chemical safety information you need while you’re at work, whether that’s on- or off-site. Use your device’s camera to scan a barcode or QR Code label and retrieve information about the containers in your chemical inventory. Search the MSDSonline database to find an SDS that is not already in your eBinder. Use the app to edit the status of your containers, or move them throughout your organization. All changes automatically update the inventory in your online account. Scan UPC Codes associated with your products to retrieve product information and the product’s safety data sheet. 
+
+Also, the chemical safety information associated with your containers downloads to your device and updates when new data or SDS versions are added to your eBinder. Whether you’re online or offline, you and your staff will always be just a few taps away from the hazardous chemical information necessary to maintaining a safe, compliant workplace. And you can rest assured that your SDS/Chemical Management mobile app is protected using the same username and password information as your MSDSonline account.
+
+MSDSonline —a VelocityEHS solution— built its powerful chemical inventory management system to help you better meet regulatory reporting requirements under OSHA's Hazard Communication Standard. Now our mobile technology allows you to meet those requirements more quickly and efficiently. 
+
+If you do not have a valid MSDSonline HQ or HQ RegXR account, please visit www.MSDSonline.com or call 1.888.362.2007.
+
+FEATURES 
+
+•	Directly link to your MSDSonline account
+•	Search and view the products and containers in use at your company
+•	Search the MSDSonline database for Safety Data Sheets
+•	Quickly view where inventory is assigned within your company
+•	View product details, container information, and safety data sheets
+•	Helpful filters to narrow your search results
+•	Save safety data sheets and product details to your device for offline use
+•	Recognizes MSDSonline account user roles and permissions 
+•	Manage chemical inventory details, such as container status and location 
+•	Clone existing containers to quickly add to your inventory
+•	Scan barcodes, QR Codes, and UPC Codes 
+•	Access your previous scans both online and offline
+•	Save time with search categories and filters
+•	Login via QR code instead of manually entering your Company Link
+•	Reliable synchronization of up-to-date SDS and container information
+•	Store product and container details on your mobile device for offline use
+•	Automatically downloads new versions of safety data sheets as they appear in your eBinder
+•	Share links to your safety information with employees, visitors, and first responders 
+•	Provide product suggestions to VelocityEHS from the application",Business,3.5869565,"50,000+","VelocityEHS, Inc",https://play.google.com/store/apps/details?id=com.msdsonline.eBinder&hl=en&gl=us,ISO 13485
+com.fimait.emsp,EMS Protocol,"EMS Protocol (Emergency Medical Service Protocol) is specifically designed for Android devices and enables the efficient documentation of medical emergency situations like rescue missions involving paramedics, emergency doctors and other special rescue forces. It is also perfectly suited for documenting transfers of patients between hospitals or ambulance services performed by trained medical personnel.
+
+EMS Protocol is the first app to comply with the latest guidelines for patient care. EMS Protocol enables documentation according to the ABC standard and supports the immediate recording of the measures taken. The application incorporates well established patterns for medical assessment including SAMPLER, SICK and GCS.
+ 
+• Emergency doctor protocol, paramedic protocol, first aid protocol in one product
+• Patient transport protocols are FREE
+• Encryption of documented data utilizing AES
+• Great usability facilitates easy on-boarding of medical trained personnel
+• Web-based administration of your devices with EMS Protocol (medication, report customization ...)
+• Navigation to emergency location (e.g. via Google Maps)
+• Share and print emergency reports with/in your environment
+• Clear pricing structure and simple control of costs
+• No hidden fees or service costs
+• No patient data in a cloud or on a server - data stored on your device
+• Simple processing of the recorded data
+• Regular updates at no additional cost",Medical,0.0,"1,000+",FIMA IT GmbH,https://play.google.com/store/apps/details?id=com.fimait.emsp&hl=en&gl=us,ISO 13485
+com.March.health,March: Pelvic & Endometriosis,"Welcome to March, the app designed to support you in managing pelvic health and endometriosis, empowering you to navigate your health with confidence. Recognized by industry leaders and trusted by users like you, March combines advanced technology with genuine care to help you take charge of your health. 
+ 
+Why March? 
+Our app is backed by awards for innovation in healthcare and partnerships with tech giants like Microsoft and Samsung. We’re here to bring you the most reliable support on your journey, with tools and insights designed just for you. 
+ 
+Key Achievements: 
+🏆 The best pain management technology, Medtech Breakthrough Awards 2022 
+🏆 Startup of the year, IT World Awards 2020 
+🏆 Startup of the year, Best Biz Awards 2020 
+🏆 Startup of the year, One Planet Awards 2020 
+🤝 Trusted Partnerships – Partnered with Microsoft,  Samsung, Stanford, White House, and BBC,  ensuring top-quality, reliable healthcare support for our users. 
+ 
+Explore March’s Features: 
+-Screening and Monitoring: 
+Stay on top of your health with our comprehensive screening tools and regular monitoring features, designed to help you track symptoms and changes over time, so you can take proactive steps in your endometriosis and pelvic health journey. 
+ 
+-Personalized Recommendations: 
+Receive tailored recommendations based on your health data to help manage symptoms and improve overall wellbeing. March provides insights on lifestyle, diet, and treatment options that are just right for you. 
+ 
+-On-Demand Medical Advice: 
+Our AI-powered advisor is here when you need quick answers or guidance on symptom management, providing immediate, personalized insights. 
+ 
+-Engaging and Educational: 
+Stay engaged with our gamified features, where you can complete health challenges and quests to improve pelvic health habits. 
+ 
+-Endometriosis and PCOS Self-Assessment: 
+Use our self-assessment tools to gain a deeper understanding of your symptoms, giving you and your healthcare provider insights for a more tailored plan. 
+ 
+-Mental Health Support: 
+Access resources crafted to help with the mental health side of chronic health conditions, addressing stress, anxiety, and the emotional aspects of pelvic health. 
+ 
+-Customized Lifestyle Plans: 
+Discover lifestyle, diet, and exercise recommendations specifically designed to support your pelvic health and overall well-being. 
+ 
+ 
+ 
+Disclaimer:  
+March is designed to provide information and support for managing pelvic health and endometriosis. However, it is not a substitute for professional medical advice, diagnosis, or treatment. Always consult with a qualified healthcare provider before making any medical decisions. 
+Take charge of your pelvic health today with March. For more information, visit our website or reach out to our support team. 
+ 
+With March, managing your health becomes easier, more supported, and fully in your control. Download today to see why so many trust March for their pelvic health journey. 
+ 
+For more information, visit March Health’s website or reach out to us anytime. 
+ 
+Subscription Details: 
+Payment will be charged to your iTunes account upon confirmation of purchase. 
+Subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period. 
+Your account will be charged for renewal within 24 hours before the end of the current period, including identifying the cost of the renewal. 
+After purchase, you can manage your subscription and turn off auto-renewal by going to your Account Settings. 
+Any unused portion of a free trial period will be forfeited if a subscription is purchased before the trial ends. 
+For more details, visit Apple's subscription support page. 
+ 
+Privacy Policy: https://march.health/privacy-policy/ 
+Terms of Use: https://march.health/terms/",Health & Fitness,3.75,"10,000+",March Health,https://play.google.com/store/apps/details?id=com.March.health&hl=en&gl=us,ISO 13485
+com.semiosbanyan.app,Semios Hub,"Welcome to the next generation of the Semios all-in-one crop management platform.
+
+The Semios Hub mobile app lets you access all your Semios data on the go. Get live on-farm data from your Semios devices and agronomic models at your fingertips, and make informed crop management decisions with ease.
+
+What's New in Semios Hub:
+
+* Significant improvements to load time mean you get your data fast. Real fast.
+* Visualize your data in the way that makes the most sense for you by toggling on/off different data layers.
+* Get insights into all your farm properties from a unified map view",Productivity,,100+,Semios,https://play.google.com/store/apps/details?id=com.semiosbanyan.app&hl=en&gl=us,ISO 13485
+ie.jemstone.ronspot,RONSPOT,"Ronspot is an all-in-one space management system 📲  
+
+Ronspot was created to solve parking, desk, and meeting room demand problems. Across the world, companies are facing issues with managing their spaces. Be it parking management, hot desking, meeting room bookings – Ronspot is designed to solve these problems.  
+
+By allowing employees to book desks, parking spaces, and meeting rooms, Ronspot can help reduce the amount of time and effort spent on coordinating these resources. Additionally, the flexibility of the system allows employees to create their own work schedule, which can help improve their productivity and satisfaction. 
+
+In short, Ronspot is for organisations who want to make hybrid working easy. It is the number 1 effective solution for companies that are looking to make hybrid working easier and more effective. Our desk, parking, and meeting room booking system is the complete all-in-one space management software that empowers employees to create their own flexible work schedule. 
+
+  
+
+How does Ronspot solve these issues? 
+
+By using the Ronspot App, employees can view a map of the office and see which desks, parking spaces, and meeting rooms are available. They can then book the space they need in advance, ensuring that it will be ready for them when they arrive at work.  
+
+This helps to manage demand for these resources and ensure that they are allocated fairly among employees.  
+
+Additionally, by enabling employees to book their own spaces, Ronspot helps to facilitate hybrid working, allowing employees to choose the location that best suits their needs and preferences. 
+
+  
+
+What problem does Ronspot solve for companies? 
+
+Ronspot solves problems around managing demand for spaces, ensuring fair allocation, and implementing hybrid working. So, Ronspot: 
+
+• Maximises occupancy 
+• Reduces administration for the company 
+• Facilitates hybrid working in a fair and transparent manner. 
+• Generates data on occupancy, usages, and employees 
+
+  
+
+What are the key features of Ronspot? 
+
+• Desking, parking, and meeting rooms in one app 
+• Live real-time availability booking calendar 
+• Interactive booking map 
+• Search your colleagues’ bookings 
+• Automated booking email reminders and push notifications 
+• Calendar sync 
+• Filter spots by attributes 
+• Mobile & Web App 
+• Single Sign-On 
+• ISO 27001 Certified System (Data Security Standards) 
+• Translated in 7 languages (English, German, French, Spanish, Dutch, Italian, Czech) 
+• Employee Roles (Coming Soon) 
+
+  
+
+Join employees in over 40 countries using Ronspot for booking their spaces.  See how Ronspot works for our customers on our website – www.ronspotflexwork.com  
+
+For more information, please contact support@ronspotflexwork.com",Productivity,,"10,000+",Ronspot Limited,https://play.google.com/store/apps/details?id=ie.jemstone.ronspot&hl=en&gl=us,ISO 13485
+com.unbound.android.ub5el,5-Minute Emergency Consult,"** Latest 6th Edition Update **
+
+ABOUT 5-MINUTE EMERGENCY MEDICINE CONSULT 
+Rosen & Barkin’s 5-Minute Emergency Medicine Consult delivers practical, quick-read information on over 600 medical conditions seen in emergency medicine directly to your smartphone and tablet. Search and browse for answers in concise topics organized to help save valuable time. Written and edited by practicing clinicians, this mobile resource is ideal for confirming accurate diagnoses and beginning treatment in the fast-paced environment seen in urgent and emergent care.
+
+FEATURES 
+• Fully-updated details on 600+ topics found in emergency medicine
+• Basics, Diagnosis, Treatment, Follow-up
+• Diagnoses spanning from pre-hospital to disposition stage 
+• Highlight and make custom notes within entries 
+• Features new information—based on the latest practice guidelines and theoretical developments—and new approaches to diagnosis and management.
+• Helpful Pearls and Pitfalls to help avoid common errors
+• Advanced Search help find terms across all topics
+• “Favorites” for bookmarking important entries 
+
+Editors: Jeffrey J. Schaider, MD; Roger M. Barkin, MD, MPH; Stephen R. Hayden, MD; Richard E. Wolfe, MD; Adam Z. Barkin, MD, MPH; Philip Shayne, MD 
+Publisher: Wolters Kluwer
+Powered by: Unbound Medicine",Medical,4.6296296,"10,000+","Unbound Medicine, Inc",https://play.google.com/store/apps/details?id=com.unbound.android.ub5el&hl=en&gl=us,ISO 13485
+com.ezaccessapp.physicianseast,Physicians East,"The Physicians East Patient Portal app connects you, the patient, with your healthcare provider and helps you conveniently manage your healthcare.  
+ 
+With the Physicians East Patient Portal app, you can: 
+• Connect with your healthcare provider
+• View Profile
+• Receive alerts
+• View and request appointments
+• Request prescription refills
+• Pay bills
+• Share data securely and in real time with healthcare provider
+• Integrate with Apple HealthKit to retrieve daily exercise logs, sleep patterns and health data
+ 
+To use the Physicians East Patient Portal App, you will need an invitation or login from Physicians East.  Please contact us at (252) 413-6281 for assistance with login or support for the app. 
+ 
+Please seek a doctor’s advice in addition to using this app and before making any medical decisions.",Health & Fitness,3.7333333,"5,000+",Medical Office Technologies,https://play.google.com/store/apps/details?id=com.ezaccessapp.physicianseast&hl=en&gl=us,ISO 13485
+com.ehsinsight.mobile.alpine,EHS Insight,"** Note: This app requires a free or paid EHS Insight account. **
+
+EHS Insight offers everything you need to manage Environmental, Health and Safety (EHS) programs at your organization. Best suited for organizations with 100 to 100,000 employees, it’s the solution that scales with you.
+
+Key features include:
+
+* Cloud based, secure web access from any device
+* Native mobile application with offline support
+* Offline access
+* Robust reporting and dashboards
+* Key Performance Indicators
+* Automatic email notifications and task management
+* Severity based workflows
+* Multiple languages
+* Multilevel business hierarchy
+
+Select the modules you are interested in now and add more later. The most popular modules are:
+
+* Incident management with investigations
+* Audits, inspections, and assessments
+* Corrective actions
+* Work hours and incident rates
+* Work observations
+* Sustainability
+* Training management
+* Compliance tasks
+
+EHS Insight is based on standards and best practices, with optional workflow configurations that support varying levels of maturity in EHS processes. It is configurable to meet your needs, and most customers are up and running in days or weeks, not months. 
+
+EHS Insight represents the state of the art in software solutions for Environmental, Health and Safety Management. No other solution is packed with so many features and so easy to use. Learn more at www.ehsinsight.com
+ 
+FOLLOW US
+https://www.ehsinsight.com
+https://twitter.com/ehsinsight
+https://www.linkedin.com/company/ehs-insight",Business,3.72,"10,000+",StarTex Software,https://play.google.com/store/apps/details?id=com.ehsinsight.mobile.alpine&hl=en&gl=us,ISO 13485
+com.dialenga.dialenga,Dialenga,"Dialenga is your organization's internal communication and employee experience app; for everyone, in and out of the office.
+
+The most convenient and intuitive way to stay up-to-date: access relevant content, documents, surveys, and breaking news, all enriched with photo galleries, videos, and comments from your colleagues.
+
+CLOSENESS AND INFORMATION
+Dialenga helps you connect with your company by putting current content, events, crisis communications, training materials, and documentation at your fingertips.
+
+YOUR ORGANIZATION LISTENS TO YOU
+Make sure communication never fails. Make requests, questions, or suggestions on the fly through a friendly conversational format. Want to share an experience? We make it soooo easy.
+
+THE PERFECT EMPLOYMENT RELATIONSHIP: VACATION, ABSENCES, AND PAYROLLS
+Streamline your vacation or temporary absence requests with Dialenga and receive the response directly on your phone. For team leaders: you can also check the availability of your entire team and manage their requests directly from your device.
+Access your payroll, withholding certificates, or other private documents conveniently whenever you need them.
+
+INTERNAL COMMUNICATION MANAGERS: THIS IS YOUR PLATFORM
+Dialenga provides you with the tools you need to manage and measure your Internal Communications and maximize your employee experience. Reach all your employees through an engaging and dynamic format.
+
+PROFESSIONAL COMMUNICATION
+Send content that won't go unnoticed thanks to push notifications. Schedule your emails for accurate publication and archive content automatically. Access detailed impact statistics for each communication sent and detailed reports on completed questionnaires.
+
+CAPTURE THE VOICE OF YOUR EMPLOYEES
+eNPS surveys, polls, contests, ratings, experiences: share your ideas with the entire company; A channel to listen to everyone and get to know each other better. Create your own questionnaires with advanced features like logical jumps and employee segmentation based on their responses.
+
+MANAGEMENT THAT MEETS YOUR EXPECTATIONS
+Multilingual content, user roles and permissions, and customizable conversation channels to adapt to your internal processes.
+
+All 100% secure and reliable: audited and certified in ISO 27001, GDPR-compliant, with full activity logging and data encryption, safely stored in our Google Cloud Platform infrastructure.
+
+Multiple customization options and connection to your systems and tools used in your daily work.
+
+Your company must be registered with Dialenga to access it.
+
+To learn more about Dialenga and to introduce it to your company, please visit http://www.dialenga.com
+
+Copyright - Dialenga ® is a constantly evolving product created by SNGULAR PEOPLE S.A.",Communication,,"10,000+",Dialenga,https://play.google.com/store/apps/details?id=com.dialenga.dialenga&hl=en&gl=us,ISO 27001
+plus.sign.android,Sign.Plus - Sign PDF Documents,"<b>Sign.Plus</b> is a legally-binding electronic signature solution to sign documents on Android devices and send documents for signature. It’s a secure, reliable, cross-platform, and easy to use eSign platform.
+Using this free eSignature app to sign documents online, you can fill and sign PDF documents, Word documents, and other types of supported documents. You can utilize the paper scanning feature to convert your paper documents to digital documents and sign them electronically.
+
+<b>★ Sign.Plus recognized as the best eSign app to fill and sign documents! ★</b>
+
+<b>Fill and sign documents:</b> This free esign app allows you to create an electronic signature that can be used to e-sign documents wherever you are and whenever you want. You can draw a signature, type your signature or use your initials.
+
+<b>Send documents for signature:</b> Other than the option to fill and sign documents yourself, you can also send documents for signature. You can send a request for signature even if the signees do not have a Sign.Plus account. With this eSignature and form filling app, you can add various fields to the documents, including signature, initials, date, text, and checkbox. 
+
+<b>Tamper-proof audit trails:</b> For every document that goes into the process of signing electronically, there are real-time logs to keep track of any activity that has occurred with information such as name, IP address, email address, device. The audit trails available in this free document signing app are non-editable and each document action is thoroughly tracked and time-stamped, serving as legal proof of receipt, review, and signature.
+
+<b>Legally-binding electronic signature:</b> Sign.Plus complies with electronic signature regulations such as ESIGN, eIDAS, and ZertES to ensure it delivers the same legal standing as pen-and-paper signatures.
+
+
+<b>► Extensive security measurements and compliance offerings</b>
+
+<b>Data encryption:</b> We encrypt all documents at rest using 256-bit Advanced Encryption Standard (AES), with each user’s unique encryption key., To protect data in transit between our apps (currently mobile, API, web) and our servers, we use TLS 1.2+ encryption.
+
+<b>Various compliance offerings:</b> We are committed to certifying ourselves and our e-signing platform for all relevant certifications and compliances, including SOC 2, HIPAA, ISO 27001, GDPR, CCPA, and more.
+
+<b>► Looking for an easy way to esign PDF documents? We’ve got you covered</b>
+If you are looking for a secure electronic signature and document signing app to fill and sign PDF documents, we are here to help. This free eSignature app offers the easiest online signature experience.
+You can sign PDF docs, contracts, leases, NDAs, agreements, and every type of legal document without going through a complicated process. Download Sign.Plus for free on your Android device, scan/import the document you wish to sign/be signed electronically and esign it yourself or send it for signature. 
+
+<u><b>Sign.Plus features and advantages:</b></u>
+
+• Legally-binding electronic signature solution
+• Fill and sign PDF documents
+• Send documents for signature
+• Create an electronic signature (Type, draw, initials)
+• Extensive regulatory compliance offerings, including SOC 2, HIPAA*, ISO 27001, GDPR, CCPA, and more
+• Scan documents with your mobile camera (automatic document detection, magnifier, border cropping, perspective correctness)
+• Data encryption
+• Tamper-proof audit trails
+• Save documents as draft
+• Get real-time notifications
+• Multiple date formats
+• Free e signature app to sign documents on Android
+• Qualified electronic signature (QES)
+
+* Sign.Plus is HIPAA compliant, provided the user has advanced security controls activated and enters into a business associate agreement (BAA) with Sign.Plus. Advanced security controls are available on the Enterprise plan tier.
+
+Any further questions or requests? Do not hesitate to reach us on our website, app, or by email at support@sign.plus.",Business,4.37234,"50,000+",Alohi,https://play.google.com/store/apps/details?id=plus.sign.android&hl=en&gl=us,ISO 27001
+co.mona.android,Crypto.com: Buy Bitcoin & CRO,"Crypto.com is trusted by 140 million+ users worldwide. Trade safely and securely with industry-leading compliance and security certifications today. 
+
+Crypto Trading — Trade BTC, ETH, SOL, CRO, XRP, and 400+ other cryptocurrencies.
+• Buy & sell popular crypto, including BTC and ETH, using 20+ fiat currencies or credit/debit card.
+• Set up recurring crypto purchases daily, weekly, or monthly with friendly trading tools.
+
+Crypto.com Visa Card — Up to 8% back in CRO on all spend
+• Spend or withdraw your funds with your Crypto.com Visa Card anywhere Visa is accepted.
+• Music, movie, & shopping subscription rebates with selected cards.
+• Access to 1,000+ airport lounges with selected cards.
+
+Crypto Earn 
+• Earn up to double digits reward rate on your crypto holdings.
+• Enjoy flexible terms on over 40 tokens & stablecoins. 
+
+Rewards+ — A loyalty program built for everyone
+• Unlock exclusive perks with as little as $100 in trading volume per year. Level up through our 20-tier rewards system.
+• Extra Card Rewards: Additional 3% back on spending with your Crypto.com Visa Card.
+
+Missions
+• Complete Missions to earn Diamonds and redeem Mystery Boxes for rewards up to US$1,100 of CRO.
+
+Crypto.com Pay 
+• Pay with 30+ crypto, including BTC, ETH, and CRO, & earn rewards.
+• Instant settlements with zero gas fees.
+• Shop at 200+ top brands and get up to 10% back in CRO.
+
+Crypto.com Visa Signature® Credit Card
+
+¹This rewards program is provided by Crypto.com and its terms may change at any time.
+For full Rewards Terms and Conditions, please see https://crypto.com/document/us_credit_card.
+
+²Limit of one 12 month period of Boost Rate per tier upgrade. Level up tiers require CRO lockup or Staking for 12 months from Crypto.com Visa Credit Card account opening. If you do not wish to lockup or Stake, select the Midnight Blue tier which is not eligible for this offer. Offer is exclusive to Crypto.com Visa Signature® Credit Card holders enrolled in the Level Up program. This rewards program is provided by Crypto.com and its terms may change at any time. Crypto.com calculates and awards the amount of CRO tokens earned based on the current market rate at the time of your purchase.
+
+Credit card offers are subject to credit approval.
+Crypto.com Visa Signature® Credit Card Accounts are issued by Comenity Capital Bank pursuant to a license from Visa U.S.A. Inc. Visa is a registered trademark of Visa International Service Association and used under license.
+
+*These offers are launched by Crypto.com independently, and there is no partnership between Crypto.com and the merchants in these offers. Crypto.com has the sole discretion to modify these offers at any time.
+** Receive CRO for each trade placed. Excludes BTC and ETH trading pairs, as well as stablecoin-stablecoin and stablecoin-fiat trades. 
+
+The availability of the products and services on the Crypto.com App and any given features of such products or services is subject to jurisdictional limitations and the applicable terms and conditions. Crypto.com may not offer certain products, features and/or services on the Crypto.com App in certain jurisdictions due to potential or actual regulatory restrictions.
+
+In jurisdictions where a local licence is required, the products and services may be provided by different Crypto.com group entities in accordance with local regulatory requirements. For details of Crypto.com’s licences, please refer to https://crypto.com/licenses.
+
+By using the Crypto.com Visa Card you agree to the terms and conditions of the cardholder agreement AND FEE SCHEDULE, IF ANY. The Card is issued by Community Federal Savings Bank (Member FDIC) pursuant to a license from Visa U.S.A. Inc. 
+
+All forms of trading involve risk, including the possibility of losing the entirety of your invested capital. Such activities are not suitable for everyone and should only be carried out by individuals who understand and accept the associated risk factors.",Finance,4.5218806,"10,000,000+",Crypto Technology Holdings Limited,https://play.google.com/store/apps/details?id=co.mona.android&hl=en&gl=us,ISO 27001
+com.docusign.ink,Docusign - Upload & Sign Docs,"Docusign is now the Intelligent Agreement Management company. We’re bringing the ease and delight of eSignature to the whole agreement process. 
+
+Docusign eSignature is the world’s #1 way for businesses and individuals to securely send and sign agreements from practically anywhere, at any time, from almost any device. The Docusign app is easy to use, includes unlimited free signing for all parties, and is trusted by millions of people worldwide.
+
+HOW DOCUSIGN WORKS | e-Sign PDFs, forms, and contracts on the go.
+• Step 1: Create your customized digital signature directly on your device.
+• Step 2: Upload documents easily via email, Google Drive, DropBox, Box, Evernote, Salesforce, or photo scanning.
+• Step 3: E-sign your documents for free with no monthly limit.
+
+STREAMLINED, SIMPLIFIED MANAGEMENT | Send and monitor agreements straight from your device.
+• Step 1: Import files to prepare and send them out for signature.
+• Step 2: Prepare your document with “Sign Here” tags that show precisely where to sign, initial, or add additional information and invite others to sign. You can set the signing order and workflow for multiple signers. Docusign supports both in-person and remote signing. Responsive signing functionality automatically adapts documents for mobile to the size and orientation of the signer’s device.
+• Step 3: Remind signers to sign with a single tap or void a document that has already been sent for signature.
+• Step 4: Receive real-time push notifications when a document has been signed.
+
+E-SIGNATURE THROUGH DOCUSIGN IS LEGAL AND SECURE.
+Docusign’s complies with the eSign Act, which means:
+• Agreements are legally binding.
+• There is a complete audit trail to track who signed when and where.
+• Documents are encrypted; this is safer and more secure than paper.
+• Docusign is ISO 27001 SSAE16 compliant.
+
+Docusign’s free eSignature app supports multiple document types and formats, including:
+• PDF
+• Word
+• Excel
+• Images (JPEG, PNG, TIFF)
+• Text-Based Files
+
+Common documents to digitally sign with Docusign:
+• Non-disclosure agreements (NDAs)
+• Sales contracts and proposals
+• Health care documents
+• Financial agreements
+• Waivers
+• Permission slips
+• Lease agreements
+
+PREMIUM PLANS
+In addition to the free signing experience, Docusign offers advanced features through subscription plans:
+
+Standard Plan
+• Send documents out for signature.
+• Access to advanced fields including Docusign’s most popular.
+• Manage signing on-the-go. Remind, void, in-person signing, and reusable templates.
+
+Real Estate Plan
+• Send documents out for signature.
+• Powerful real estate features including zipForm Plus integration and web branding.
+• Managing signing on-the-go. Remind, void, in-person signing, and reusable templates.
+
+Personal Plan
+• Limited document sending. Send up to 5 documents monthly.
+• Access to essential fields. Request signature, date, and name.
+• Reusable templates so you can standardize your documents.
+
+Email your questions or feedback to:
+mobilefeedback@docusign.com
+
+Find out more about Docusign and electronic signatures: https://www.docusign.com/products/electronic-signature/how-docusign-works
+
+Subscription Plan Information:
+• Payment is charged to Google Play at the time a user confirms purchase.
+• Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's account settings after purchase.
+• Cancellation of the current subscription is not allowed during the active subscription period.
+
+Privacy Policy:
+https://www.docusign.com/privacy/
+
+Agreements and Terms:
+https://www.docusign.com/legal/agreements/",Productivity,4.550971,"10,000,000+",Docusign,https://play.google.com/store/apps/details?id=com.docusign.ink&hl=en&gl=us,ISO 27001
+com.trieudadlovestun.comptiacore2,Comptia A+ Core 2 220-1102,"There are many questions on the web that are either outdated or wrongly answered. I am trying here to filter all those questions and provide you with a nice tool to practice the exam similar to the real-life exam as much as possible.
+
+This small app was designed with love to help you 5 things:
+
+1.question content is updated monthly in 2025 so you don’t have to worry that these question is outdated anymore.
+
+2.With 2 EXACT-FILTERING features, you can focus easily on questions you are making mistakes or missing.
+
+3.Save difficult questions offline. So you can practice them later when you have free time.
+
+4.Examination mode will help you take test like a real exam. So you will be more confident.
+
+5.NEARLY-100% questions are packed with straightforward explanations. You will know why it is correct or wrong. No more confusing.
+
+In sum, this app is simple and straight-to-the-point like description you are reading.
+
+Have fun and enjoy the app!",Education,0.0,"1,000+",Tun Tran,https://play.google.com/store/apps/details?id=com.trieudadlovestun.comptiacore2&hl=en&gl=us,ISO 27001
+com.learnazure.app,Learn Azure,"Learn Azure is an app which helps you to become Microsoft Azure Certified Professional from fundamentals, to role-based and expert level. Learn Azure is an “always here” assistant in boosting your Azure skills from any level of experience.
+
+Learn Azure app has already helped more than <b>90,000+</b> specialists to improve their Microsoft Azure skills, become certified professionals and boost their IT-career. Download the app today and achieve your career goals faster.
+
+There are preparation for most popular Azure Certification exams right now. Such as:
+• AZ-900 - Microsoft Azure Fundamentals
+• AZ-104 - Microsoft Azure for Administrators
+• AZ-204 - Microsoft Azure for Developers
+• AZ-305 - Microsoft Azure for Solution Architects
+• AZ-400 - Microsoft Azure for DevOps experts
+Great app to help study for Axure certificates. Gets frequent updates. In app purchases are quite pricy though.
+• AZ-500 - Microsoft Azure for Security experts
+• DP-900/DP-203 - for Database specialists
+
+Additional Features of app:
+→  Learn offline. No internet connection required to pass tests and exams
+→  Learn Azure Community which is ready to assist you anytime
+→  All that you want to know about Cloud Computing and Azure is in this app
+→  Track progress. Self-motivate with achievements and reminders
+
+• <b>AZ-900</b> - Microsoft Azure Fundamentals. 
+
+Do you begin with MS Azure or Cloud computing? Going to pass the AZ-900 Microsoft certification exam? Start here! You choose where to invest your time:
+→ 150+ tutorials sorted by 15 separated categories
+→ Full video course with 62 videos that cover all topics of Azure and more
+→ Lots of practice labs to apply your knowledge in real environment
+→ Validate knowledge with Quizzes on each topic you learned
+
+• <b>AZ-104</b> - Microsoft Azure for Administrators
+
+Are you Microsoft Azure Administrator or going to take this job position? Already familiar with MS Azure services and keen to dive deeper into managing Azure? Want to become a certified Microsoft Azure Administrator? Choose this one!
+→ 200+ tutorials sorted by 17 separated categories
+→ Full AZ-104 preparation video course, which covers all topics of the exam
+→ Hands-on Practice labs to improve your Azure administrator skills in a real environment
+→ AZ-104 Exam Simulator with terms and topics from real certification exam
+
+• <b>AZ-204</b> - Developing Solutions for Microsoft Azure
+
+Are you a developer on Microsoft Technology stack like me? Are you a .NET/ASP.NET Core/WebAPI developer? Are you developing mobile apps and backend for them using Xamarin/.NET MAUI and ASP.NET WebAPI MVC? Going to become Microsoft Azure Certified Developer? Choose the AZ-204 exam and boost your career!
+→ 250+ tutorials carefully sorted by categories to reduce cognitive load
+→ Full Microsoft Azure for Developers video course
+→ Practice with hands-on labs! Write code, setup Azure services, deploy your web-apps and microservices. 
+→ AZ-204 Exam Simulator with unlimited attempts and questions
+
+
+• <b>AZ-400</b> - Designing and Implementing Microsoft DevOps Solutions 
+
+Only for experts. Want to boost your career, skills and salary as a result? Microsoft Azure DevOps certification may be the last point of your journey to become an Azure guru. 
+→ 100+ tutorials which cover all topics for Azure DevOps 
+→ Full video course for Azure DevOps
+→ Setup GitHub Pipelines, CI/DI, version control and many more with Practice Labs 
+→ Validate knowledge with 26 unique tests for Azure DevOps
+→ AZ-400 Exam Simulator with unlimited attempts 
+
+
+• <b>AZ-305</b> - Designing Microsoft Azure Infrastructure Solutions
+Only for experts. Microsoft Azure certification for Solutions Architecs may be the last point of your journey to become an Azure guru. 
+→ Database of 500  questions + explanation for each correct answer
+→ AZ-305 exam simulator
+→ 20+ quizzes for knowledge check of each topic of AZ-305
+→ Learning content that is organized according to AZ-305 Study Guide from Microsoft
+→ Video course
+→ Practice labs",Education,4.4,"100,000+",Price Digital Ventures,https://play.google.com/store/apps/details?id=com.learnazure.app&hl=en&gl=us,ISO 27001
+com.hltcorp.feelectrical,FE Electric & Comp Engineering,"Created as the perfect preparation for the NCEES FE Electrical & Computer exam, these 500+ comprehensive flashcards will empower you to study at a moment's notice. Test your recall and review all of the essential principles, equations, laws, formulas and more.
+ 
+Install the free version today and jumpstart your studying! 
+We have provided a limited free version of the content that you can try before deciding to upgrade. This version includes a limited amount of flashcards.
+
+Get your best value by subscribing to the Premium Version. The Premium Version includes access to ALL categories.
+
+• 500+ flashcards allow you to master all of these categories:
+		• Engineering Mathematics
+		• Materials
+		• Engineering Sciences
+		• Electricity
+		• Systems, Controls and Power
+		• Communications and Digital Systems
+		• Computer Systems and Software
+		• General Engineering Topics
+
+Pass the FE Exam in a Flash!
+Increase your confidence to quickly recall key concepts and improve your problem-solving speed. Each card contains a complete solution to the question. Flagging cards enables you to concentrate on your more critical concepts and trouble areas. 
+
+Getting certified by the National Council of Examiners for Engineering and Surveying doesn’t have to be a scary part of your Engineering journey. Let us help!	
+
+Get access to all questions when you subscribe:
+• 1 Month: one auto-renewing payment of $9.99
+• 12 Months: one auto-renewing payment of $29.99 
+
+This app offers two auto-renewing subscription options to help you pass your exam.
+
+-Payment will be charged to iTunes Account at confirmation of purchase
+-Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+-Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+-Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+-Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+ These prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. 
+
+Our Customer Success Team is available from 9am to 5pm, Monday - Friday (except on major holidays). Call us at 319-246-5271 and email us at support@hltcorp.com with any questions.
+
+Privacy Policy - http://builtbyhlt.com/privacy
+Terms of Conditions - http://builtbyhlt.com/EULA
+
+PPI is a leader in engineering, architecture, and design licensure exam review, as well as a destination for the latest exam news and guidance.  Since 1975, PPI has helped over 4 million engineering, architecture, and design professionals achieve their licensure goals by preparing them for their exams.
+ 
+Our mission is simple: we want exam candidates to pass their exams the first time. We work tirelessly to deliver the highest quality, most up-to-date exam review materials available -- in both print and digital formats that suit every candidate’s needs.   
+
+PPI’s time-tested review materials are used by prep course firms, study groups, and individuals around the world. Our founder, Michael R. Lindeburg, PE, published the original Civil Engineering Reference Manual for the PE Exam that remains the standard for Civil PE exam preparation today, as well as the “must have” reference for global civil engineering practices. Mr. Lindeburg and PPI have written and/or published over 250 engineering, architecture, and design textbooks that are available in print, digital, and eLearning formats.",Education,2.3076923,"1,000+",Higher Learning Technologies Inc,https://play.google.com/store/apps/details?id=com.hltcorp.feelectrical&hl=en&gl=us,ISO 27001
+com.bsi.connect,BSI Connect,"The BSI Connect App works with your BSI Connect PLUS and BSI Connect CUSTOM systems.  It allows you to rapidly create Findings and assign Actions to people, supported by photographic evidence from your mobile device.  You can raise these Finding and Actions in isolation or as part of an Audit, utilizing voice to text functionality.  You get your updates and actions items direct to your device in real time.  The App will also function in offline mode when no connection is available.",Productivity,,"1,000+",BRITISH STANDARDS INSTITUTION,https://play.google.com/store/apps/details?id=com.bsi.connect&hl=en&gl=us,ISO 27001
+com.coindcx.btc,CoinDCX: Bitcoin Crypto App,"Download CoinDCX Bitcoin crypto app to instantly buy, sell, & trade Bitcoin(BTC), Ethereum(ETH), Dogecoin(DOGE) & other 500+ top crypto coins. <b>Join 1.6 Crore + Indians</b>  on CoinDCX, a compliant Bitcoin investment app and crypto trading app with <b>₹79.6k Cr+ Qtrly Trading Volumes</b>.
+
+<h2>One Crypto App, Endless Possibilities</h2>
+
+Simplified Crypto Investment & Trading Features:
+-Buy Bitcoin & 500+ other cryptocurrencies with as low as ₹100
+-Invest in cryptocurrency by starting Bitcoin & crypto SIPs in a few clicks
+-Completely automated KYC verification system onboarding process
+-Easy cryptocurrency deposits/withdrawals of INR funds from Bitcoin app
+-F.I.U Compliant, ISO/IEC 27001:2022, & Qtrly PoR reports
+
+‘Learn Karo. Crypto Karo.’ With Gautam Gambhir
+CoinDCX’s ‘Learn Karo. Crypto Karo.’ campaign, empowers Indians to enter crypto confidently. By focusing on education & backed by brand ambassador Gautam Gambhir, the initiative demystifies crypto for newcomers, fostering knowledge before crypto trading. 
+
+All-in-one Crypto Platform
+-Switch between light & dark modes with customisable themes to suit your style from a/c section.
+-Trade Bitcoin, Ethereum and Top 10 Cryptos 100x leverage and 300+ crypto futures pairs with up to 50x leverage on CoinDCX Bitcoin & crypto trading app
+-Crypto spot trading with access to 1000+ curated cryptocurrencies at low fees
+-Margin Trading available for Bitcoin & 250+ crypto coins with up to 6X leverage
+-Access dedicated crypto futures wallet & cross margin for enhanced profitability.
+-Experience deep liquidity with minimal slippage & fast crypto trading order execution Web3 Mode
+- Use your CoinDCX crypto trading app to easily access 50k+ tokens on Web3 Mode
+- Direct access to over 50,000 crypto tokens & pre-launch tokens
+
+Overview of the updated CoinDCX Bitcoin & crypto trading app:
+<h2>Trade & Invest In More Than Just Bitcoin & Ethereum</h2>
+Explore over 500+ cryptocurrencies, including:
+-Large Cap Cryptos: Bitcoin (BTC), Ethereum (ETH)
+-Memecoins: Shiba INU (SHIB), Dogecoin (DOGE)
+-Worldcoin(WLD), Cardano(ADA), Solana(SOL) & more cryptocurrencies.
+
+<b>Crypto Futures Trading - Access to 100X Leverage</b>
+Start crypto futures trading in India with only ₹100, high liquidity, low fees & up to 100X leverage on Bitcoin, Ethereum & Altcoin Futures pairs. CoinDCX cryptocurrency futures trading app offers multiple order types for users to indulge in risk-managed futures trading.
+
+<b>Easy Crypto Tax Solutions To Start Trading Effortlessly</b>
+CoinDCX brings you effortless crypto tax reporting integration with KoinX! Now, you can import your transaction data from CoinDCX Bitcoin app into KoinX & generate comprehensive crypto tax reports & hassle-free filing in just a few clicks.
+
+<b>Enhanced Crypto Trading Features for both Crypto Traders & Investors</b>
+CoinDCX app upgrades your trading with powerful features on both web & mobile! Enjoy advanced charting tools, a customizable interface, efficient order management, and a sleek, user-friendly design for crypto traders.
+We’ve unified the “Go” and “Pro” modes for a seamless experience, with customizable light and dark themes and an upgraded PNL feature to accurately track profits and losses.
+
+<b>Passive Earnings & Investments </b>
+-CoinDCX enables crypto investors to add passive earnings on their cryptocurrency investments in Bitcoin, Ethereum, & other cryptocurrencies.
+-Invest in Bitcoin & other coins systematically with Crypto SIPs on CoinDCX cryptocurrency trading app.
+
+Join 1.6 Crore+ Indians on CoinDCX & elevate your crypto investment and trading journey with innovative features for advanced Bitcoin trading, & Web3 Mode for next-gen cryptocurrencies. Download CoinDCX Bitcoin exchange app now to unlock endless possibilities in crypto trading & investment.
+
+Disclaimer: Crypto products & NFTs are unregulated & can be highly risky. There may be no regulatory recourse for any loss from such crypto transactions.",Finance,4.19,"10,000,000+",CoinDCX Official,https://play.google.com/store/apps/details?id=com.coindcx.btc&hl=en&gl=us,ISO 27001
+com.aranoah.healthkart.plus,TATA 1mg Online Healthcare App,"<b>About Tata 1mg</b>
+
+We are <b>India's leading</b>, & <b>most-trusted online pharmacy & healthcare</b> app. From <b>doctor consultations on chat to online medicine delivery & lab tests at home:</b> we have it all covered for you. We are active in 1000+ cities including Delhi, Gurgaon, Noida, Mumbai, Pune, Ahmedabad, Lucknow, Bangalore, Kolkata & many more. 
+
+At Tata 1mg you can:
+- Order Medicines Online
+- Book Lab Tests 
+- Consult Doctors Online
+- Read Health Tips
+- View Medicine Information
+- Set Medicine Reminders
+
+Get medicines & health products <b>delivered at home</b> within same day or next day delivery. Download the Tata 1mg app now.
+ 
+<b>Your Favourite Online Pharmacy:</b>
+2 lakh+ <b>allopathy medicines</b> available at the best prices on our <b>medicine app.</b> 
+It’s your one-stop destination for Homeopathy & Ayurvedic medicines, health supplements, personal hygiene & more. Choose from a variety of brands like <b>Dabur, Himalaya, SBL Homeopathy, Organic India, Accu-Chek, OneTouch & more.</b>
+
+Don't want to go through the hassle of adding each medicine separately? 
+Simply upload your list of medicines on our app & we will place your order for you.
+
+Now, avail <b>best discounts</b> & savings on medical bills. Check all our offers here.
+
+All products sold on our <b>pharmacy app</b> come with 100% genuine guarantee.
+
+<b>Book Lab Tests & Health Check-ups:</b>
+Book health check-ups & <b>lab tests from the comfort of your home</b> at best prices. At Tata 1mg, you can make <b>bookings for over 2,000 tests</b>. Get tested by 120+ top verified labs such as <b>Dr Lal Path Labs, SRL Diagnostics, Thyrocare</b> & more. Free home sample-collection & access report online.
+
+Get best discounts on diagnostic services like <b>blood tests, thyroid tests, diabetes tests</b> & more.
+
+<b>Consult India’s Best Doctors Online for Free:</b>
+Our health app allows you to consult doctors online from the comfort of your home. Chat privately with our registered medical specialists. Find doctors & book appointments from all specialties like <b>General Physicians, Gynaecologists, Dermatologists, Urologists, Gastroenterologists, Pediatricians & Neurologists.</b>
+
+View Medicine Information:
+Besides being an <b>online pharmacy app,</b> we provide <b>accurate, authoritative & trustworthy information on medicines</b> to help people use their medicines safely. 
+We provide other medicine information like treatment uses, side effects, usage recommendations, safety warnings, expert advice & answers to patient FAQs.
+
+<b>Read Regular Health Tips:</b>
+Get personal & useful health tips written by expert doctors. Read about Ayurveda & its benefits, maintaining personal hygiene, early warning symptoms of various diseases & several other relevant topics.
+
+<b>Awards & Recognition:</b>
+At Tata 1mg, our goal is to make healthcare<b> understandable, accessible & affordable</b>. We set out on our journey in 2015, & have come a long way since then. We have been conferred with prestigious titles like:
+BML Munjal Award for 'Business Excellence through Learning & Development'
+Best Online Pharmacy in India Award 
+Top 50 venture in The Smart CEO-Startup50 India. 
+India's only ISO/IEC 27001 & LegitScript certified online healthcare platform
+VC Circle Award for the ""Most promising Healthcare startup”
+Ranked Top App in Medical Category in India - android & iOS
+Recognized by the Government of India - Ministry of Health & Family Welfare as a m-health initiative that consumers can use
+
+We have been selected as the <b>only company from across the globe for SD#3 ""Health & Well Being for all"" by Unreasonable group, US State Department.</b>",Medical,4.7007875,"10,000,000+",Tata 1MG Healthcare Solutions Private Limited,https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus&hl=en&gl=us,ISO 27001
+com.StickyGames.PLCEmulatorProject,PLC AI: Ladder Logic Simulator,"Learn PLC programming with Siemens and Rockwell using the most complete PLC simulator app. PLC AI offers real-time simulations, Ladder Logic training, and certification—all without hardware!
+
+-Learn PLCs with real-time simulations, SCADA, HMI & Modbus communication
+-Practice with Siemens (TIA Portal) & Allen Bradley (RSLogix) in industrial environments
+-Troubleshoot PLC systems, VFDs & industrial networks with AI-powered diagnostics and intelligent fault scanner
+
+Develop real-world automation skills with Siemens & Rockwell PLCs in an AI-powered simulator
+-Optimize industrial systems with hands-on PLC programming, SCADA & HMI control
+-Solve real automation challenges, troubleshoot VFDs & integrate Modbus communication
+-Learn through interactive PLC simulations & expert-led courses designed for industry demands
+
+PLC programming Ladder Logic Simulator, troubleshooting real automation systems and working with Siemens, Rockwell, SCADA, HMI, VFD and Modbus.
+
+ Simulate PLCs and SCADA systems with AI-driven automation
+• Program conveyor belts, robotics and industrial processes while troubleshooting real-world failures
+• Advance your automation career with gamified learning
+• Access 100+ hours of PLC programming, SCADA and industrial automation courses with Siemens, Rockwell, Schneider, ABB, Eaton, Honeywell and Arduino
+• Rockwell: Learn PLC Ladder Logic, tags and automation in Studio 5000 for ControlLogix & CompactLogix
+• Siemens: Master PLC programming in TIA Portal for S7-1200 & S7-1500
+• Industrial Networking: Master EtherNet/IP, DeviceNet, ControlNet, Profibus, Profinet and Modbus TCP for seamless automation integration with PLCs, HMIs and SCADA systems
+• SCADA & HMI: Create industrial interfaces with FactoryTalk View (PanelView) & WinCC
+• VFDs: Learn motor control, torque regulation and energy optimization with PowerFlex, Sinamics, ABB, Mitsubishi and Danfoss integrating them into PLCs via EtherNet/IP, Profibus and Modbus
+• Ladder Design: Build industrial automation solutions with Ladder Logic Simulator
+
+Why Choose PLC AI?
+Simulate PLCs, SCADA, HMI, PLC Simulations with AI-powered troubleshooting & automated PLC fault detection scanning
+Apply your knowledge in manufacturing, robotics and energy automation while programming industrial networks
+Get AI-driven feedback with quizzes, educational exams and step-by-step guidance
+Global community of engineers and students to share insights and solutions
+
+Benefits from PLC AI
+Students looking to PLC programming, automation, SCADA
+Engineers and technicians enhancing their expertise in Siemens, Rockwell and industrial PLC control systems. Also, explore Eaton, Honeywell & PLC Ladder Simulator!
+Automation engineer staying ahead with Industry 4.0, digital twins and industrial IoT
+
+• Industries You Can Transform with PLC AI
+Manufacturing: Optimize production lines with smart automation, Industry 4.0 solutions and SCADA control
+Energy Systems: Renewable energy  and IIoT-based monitoring
+Robotics: Master motion control, industrial robotics and AI-driven vision systems
+Food Processing: Automate sorting & AI quality control
+Automotive: Improve assembly lines and enhance automated inspections
+
+• Master industrial automation with Siemens (TIA Portal), Rockwell (RSLogix) Schneider Electric, ABB, Honeywell, Mitsubishi, Eaton, Omron, Arduino and VFD programming. Learn SCADA, HMI, industrial networks, industrial programming and motion control, servos, through interactive tools & gamified learning for industrial success!
+
+With this PLC Ladder Simulator, SCADA and automation controls are easy to learn
+Updates including new models, AI-driven diagnostics and troubleshooting tools
+PLC Certifications: Access to PLC courses, PLC Simulator Ladder & troubleshooting modules anytime
+
+Unlock AI-powered diagnostics, IoT automation tools and the AI Fault Scanner to detect and solve faults instantly
+Earn industry-recognized certificates to enhance your skills in PLC programming, SCADA and industrial automation TODAY!",Education,4.682353,"100,000+",PLC Academy,https://play.google.com/store/apps/details?id=com.StickyGames.PLCEmulatorProject&hl=en&gl=us,ISO 27001
+com.bestfungames.CISSP,CISSP Exam Prep & Test 2024,"Pass your CISSP (Certified Information Systems Security Professional) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 4,000+ questions written by experts, detailed explanations for each question, and hundreds of tests & quizzes at your fingertips, this is the only resource you need to prepare for your CISSP exam.
+
+Our application is meticulously structured by topic to enhance effective study practices. It features a comprehensive breakdown of topics, including: All CISSP Questions, Security and Risk Management, Security Operations, Security Architecture and Engineering, Communication and Network Security, Identity and Access Management (IAM), Security Assessment and Testing, Asset Security, and Software Development Security.
+
+## Pass On Your First Attempt ##
+
+Our CISSP exam prep application is renowned for its focused and thorough content analysis, cutting-edge learning methods, and rigorous precision. We delve deep into every section of the latest exam, consistently refining our material to stay relevant. For both correct and incorrect answers, we offer in-depth explanations to reinforce comprehension of crucial concepts found in the Certified Information Systems Security Professional exam.
+
+Additionally, our mobile app provides a personalized study plan based on your skill level, study frequency, and target test date. Not sure when you want to take the exam? You can adjust your study plan as often as you like. Our proprietary readiness score will help you determine when you’re ready to take the real exam and pass with a high score on your first try.
+
+## Designed & Developed By Experts ##
+
+Key Features:
+
+• CISSP Exam Prep
+• 4,000+ Realistic Questions
+• 500+ Tests and Quizzes
+• Detailed Explanations
+• 5 Test & Quiz Modes
+• Designed By Experts
+• Helpful Community Stats
+• Progress Tracking & Metrics
+• Helpful Reminders & Widgets
+
+For more information on our Terms of Use and Privacy Policy, please visit the following websites:
+
+https://bestfungamesllc.com/terms
+https://bestfungamesllc.com/privacy",Education,4.677966,"10,000+","Best Fun Games, LLC",https://play.google.com/store/apps/details?id=com.bestfungames.CISSP&hl=en&gl=us,ISO 27001
+security.exam,CompTIA® Security+ Prep 2025,"CompTIA® Security+ Prep 2025 is an exam preparation application that will help you pass the Information Security Engineer certification exam (codenamed SY0-701) administered by the Computing Technology Industry Association (CompTIA) with a high score on your first attempt.
+
+CompTIA® Security+ Prep 2025 not only helps you gain insight into Security+ exam preparation, but also helps you increase your confidence in passing the exam on the first attempt by practicing hundreds of exam-like questions.
+
+### Passing the exam on the first attempt ###
+
+In CompTIA® Security+ Prep 2025, there are a large number of questions prepared by exam experts that cover the scope of the official exam requirements. According to the exam requirements, you must master all subjects in order to successfully pass the CompTIA® Security+ exam.
+
+Specifically, these subjects include:
+
+- General Security Concepts
+- Threats, Vulnerabilities, and Mitigations
+- Security Architecture
+- Security Operations
+- Security Program Management and Oversight
+
+To help you pass the exam, our exam experts have carefully analyzed and broken down the above subjects. You will need to practice all 5 subjects that will help you pass the exam with confidence!
+
+### Key Features ###
+
+- Over 1300+ practice questions with detailed answer explanations for each question
+- Specialized practice by content area, with the flexibility to switch between them at any time
+- View an analysis of your current performance in the ""Statistics"" section
+
+The most important part of passing the CompTIA® Security+ exam is to keep practicing and not lose confidence in the exam. You will find that every time you practice on CompTIA® Security+ Prep 2025, your knowledge of the exam will increase, thus increasing your certainty of passing the exam.
+
+Set aside a certain amount of time each day to practice some questions while hinting to yourself to do the same tomorrow. After you develop good study habits, you will find it easier to pass and score high on not only the CompTIA® Security+ exam, but on any other exam!
+
+### Purchase, Subscriptions and Terms ###
+
+You will need to purchase at least one subscription to unlock access to all features, content areas and issues. Once purchased, the cost will be deducted directly from your Google account. Subscriptions will automatically renew and be charged based on the rate and term selected for the subscription plan. If you need to cancel your subscription, please do so no later than 24 hours before the end of the current term or your account will be automatically charged for renewal.
+
+You can manage your subscription by turning off auto-renewal in your account settings in Google Inc. after purchase. Or you can manage and cancel your subscription by clicking on ""Subscription Management"" on the settings page after opening the app. If a free trial period is offered, any unused portion will be forfeited when you purchase the subscription (if applicable).
+
+Terms of Service - http://security.yesmaster.pro/terms-of-service.html
+Privacy Policy - http://security.yesmaster.pro/privacy-policy.html
+
+If you have any questions or comments about your use, please let us know via email at contact@yesmaster.pro and we will resolve them for you within 3 business days at the latest.
+
+DISCLAIMER:
+CompTIA® is a registered trademark of the Computing Technology Industry Association. This application is not authorized, sponsored/supported or endorsed by CompTIA.",Education,4.5841584,"10,000+",Pass Your Exam,https://play.google.com/store/apps/details?id=security.exam&hl=en&gl=us,ISO 27001
